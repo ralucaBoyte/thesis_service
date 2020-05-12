@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/ams-chat
+    username: ams
+    password: ams
+    driver-class-name: org.postgresql.Driver
+
+server:
+  servlet:
+    context-path: /chat
+  port: 8765
