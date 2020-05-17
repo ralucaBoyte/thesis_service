@@ -1,0 +1,11 @@
+
+V	java:S1250"<This block of commented-out lines of code should be removed.(ûâéúÿÿÿÿ
+E
+java:S1068!"*Remove this unused "logger" private field.(¦²£Âıÿÿÿÿ
+X
+java:S3655)";Call "optionalUser.isPresent()" before accessing the value.(†î›„8öÅ ù¡.
+µ
+java:S1130$"’Remove the declaration of thrown exception 'org.springframework.security.core.userdetails.UsernameNotFoundException' which is a runtime exception.(âĞÒøÿÿÿÿ8öÅ ù¡.
+L
+java:S2201'"/The return value of "orElseThrow" must be used.(¼ĞÈ8öÅ ù¡.
+Q	java:S125."<This block of commented-out lines of code should be removed.(øê–¨

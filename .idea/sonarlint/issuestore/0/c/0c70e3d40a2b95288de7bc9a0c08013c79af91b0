@@ -1,0 +1,15 @@
+
+T
+java:S2629!"7Use the built-in formatting to construct this argument.(¬ÎÄ°8ÒÕö¨ .
+^
+java:S3457!"AFormat specifiers should be used instead of string concatenation.(¬ÎÄ°8ÒÕö¨ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æúô8ÒÕö¨ .
+c
+java:S3457+"AFormat specifiers should be used instead of string concatenation.(à¾§Éøÿÿÿÿ8ÒÕö¨ .
+~
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ö±İÃûÿÿÿÿ8ÒÕö¨ .
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ö±İÃûÿÿÿÿ8ÒÕö¨ .
+Y
+java:S2629+"7Use the built-in formatting to construct this argument.(à¾§Éøÿÿÿÿ8ÒÕö¨ .
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µËü’şÿÿÿÿ8ÒÕö¨ .

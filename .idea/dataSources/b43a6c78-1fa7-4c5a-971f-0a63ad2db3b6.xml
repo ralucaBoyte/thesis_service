@@ -143,7 +143,8 @@
       <ObjectId>2200</ObjectId>
       <Comment>standard public schema</Comment>
       <Owner>postgres</Owner>
-      <IntrospectionTimestamp>2020-05-12.16:27:08.803</IntrospectionTimestamp>
+      <IntrospectionTimestamp>2020-05-17.20:37:56.901</IntrospectionTimestamp>
+      <IntrospectionStateNumber>4865</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
@@ -189,5 +190,834 @@
       <HandlerId>335</HandlerId>
       <Type>index</Type>
     </access-method>
+    <sequence id="37" parent="30" name="oauth_user_id_seq">
+      <ObjectId>108858</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="38" parent="30" name="permission_id_seq">
+      <ObjectId>108833</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="39" parent="30" name="permission_role_permission_id_seq">
+      <ObjectId>108871</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="40" parent="30" name="permission_role_role_id_seq">
+      <ObjectId>108873</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="41" parent="30" name="reviews_id_seq">
+      <ObjectId>108943</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="42" parent="30" name="role_id_seq">
+      <ObjectId>108847</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="43" parent="30" name="role_user_role_id_seq">
+      <ObjectId>108892</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="44" parent="30" name="role_user_user_id_seq">
+      <ObjectId>108894</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <sequence id="45" parent="30" name="user_keyphrase_id_seq">
+      <ObjectId>108964</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4865</StateNumber>
+      <SequenceIdentity>1..2147483647</SequenceIdentity>
+      <BelongsToColumn>1</BelongsToColumn>
+      <CacheSize>1</CacheSize>
+      <DataType>integer</DataType>
+    </sequence>
+    <table id="46" parent="30" name="flyway_schema_history">
+      <ObjectId>108808</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4862</StateNumber>
+    </table>
+    <table id="47" parent="30" name="oauth_access_token">
+      <ObjectId>108919</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="48" parent="30" name="oauth_approvals">
+      <ObjectId>108937</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="49" parent="30" name="oauth_client_details">
+      <ObjectId>108818</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="50" parent="30" name="oauth_client_token">
+      <ObjectId>108913</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="51" parent="30" name="oauth_code">
+      <ObjectId>108931</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="52" parent="30" name="oauth_refresh_token">
+      <ObjectId>108925</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="53" parent="30" name="oauth_user">
+      <ObjectId>108860</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="54" parent="30" name="permission">
+      <ObjectId>108835</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="55" parent="30" name="permission_role">
+      <ObjectId>108875</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="56" parent="30" name="reviews">
+      <ObjectId>108945</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="57" parent="30" name="role">
+      <ObjectId>108849</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="58" parent="30" name="role_user">
+      <ObjectId>108896</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4863</StateNumber>
+    </table>
+    <table id="59" parent="30" name="user_keyphrase">
+      <ObjectId>108966</ObjectId>
+      <Owner>ams</Owner>
+      <StateNumber>4865</StateNumber>
+    </table>
+    <column id="60" parent="46" name="installed_rank">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="61" parent="46" name="version">
+      <Position>2</Position>
+      <DataType>varchar(50)|0s</DataType>
+      <StateNumber>4862</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="62" parent="46" name="description">
+      <Position>3</Position>
+      <DataType>varchar(200)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="63" parent="46" name="type">
+      <Position>4</Position>
+      <DataType>varchar(20)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="64" parent="46" name="script">
+      <Position>5</Position>
+      <DataType>varchar(1000)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="65" parent="46" name="checksum">
+      <Position>6</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>4862</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="66" parent="46" name="installed_by">
+      <Position>7</Position>
+      <DataType>varchar(100)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="67" parent="46" name="installed_on">
+      <Position>8</Position>
+      <DataType>timestamp|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <DefaultExpression>now()</DefaultExpression>
+      <TypeId>1114</TypeId>
+    </column>
+    <column id="68" parent="46" name="execution_time">
+      <Position>9</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="69" parent="46" name="success">
+      <Position>10</Position>
+      <DataType>boolean|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4862</StateNumber>
+      <TypeId>16</TypeId>
+    </column>
+    <index id="70" parent="46" name="flyway_schema_history_pk">
+      <ObjectId>108815</ObjectId>
+      <ColNames>installed_rank</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <index id="71" parent="46" name="flyway_schema_history_s_idx">
+      <ObjectId>108817</ObjectId>
+      <ColNames>success</ColNames>
+    </index>
+    <key id="72" parent="46" name="flyway_schema_history_pk">
+      <ObjectId>108816</ObjectId>
+      <ColNames>installed_rank</ColNames>
+      <UnderlyingIndexName>flyway_schema_history_pk</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="73" parent="47" name="token_id">
+      <Position>1</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="74" parent="47" name="token">
+      <Position>2</Position>
+      <DataType>bytea|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>17</TypeId>
+    </column>
+    <column id="75" parent="47" name="authentication_id">
+      <Position>3</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="76" parent="47" name="user_name">
+      <Position>4</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="77" parent="47" name="client_id">
+      <Position>5</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="78" parent="47" name="authentication">
+      <Position>6</Position>
+      <DataType>bytea|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>17</TypeId>
+    </column>
+    <column id="79" parent="47" name="refresh_token">
+      <Position>7</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="80" parent="48" name="user_id">
+      <Position>1</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="81" parent="48" name="client_id">
+      <Position>2</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="82" parent="48" name="scope">
+      <Position>3</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="83" parent="48" name="status">
+      <Position>4</Position>
+      <DataType>varchar(10)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="84" parent="48" name="expires_at">
+      <Position>5</Position>
+      <DataType>timestamp|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1114</TypeId>
+    </column>
+    <column id="85" parent="48" name="last_modified_at">
+      <Position>6</Position>
+      <DataType>timestamp|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1114</TypeId>
+    </column>
+    <column id="86" parent="49" name="client_id">
+      <Position>1</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="87" parent="49" name="client_secret">
+      <Position>2</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="88" parent="49" name="web_server_redirect_uri">
+      <Position>3</Position>
+      <DataType>varchar(2048)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="89" parent="49" name="scope">
+      <Position>4</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="90" parent="49" name="access_token_validity">
+      <Position>5</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="91" parent="49" name="refresh_token_validity">
+      <Position>6</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="92" parent="49" name="resource_ids">
+      <Position>7</Position>
+      <DataType>varchar(1024)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="93" parent="49" name="authorized_grant_types">
+      <Position>8</Position>
+      <DataType>varchar(1024)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="94" parent="49" name="authorities">
+      <Position>9</Position>
+      <DataType>varchar(1024)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="95" parent="49" name="additional_information">
+      <Position>10</Position>
+      <DataType>varchar(4096)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="96" parent="49" name="autoapprove">
+      <Position>11</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="97" parent="49" name="pk_oauth_client_details">
+      <ObjectId>108831</ObjectId>
+      <ColNames>client_id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="98" parent="49" name="pk_oauth_client_details">
+      <ObjectId>108832</ObjectId>
+      <ColNames>client_id</ColNames>
+      <UnderlyingIndexName>pk_oauth_client_details</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="99" parent="50" name="token_id">
+      <Position>1</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="100" parent="50" name="token">
+      <Position>2</Position>
+      <DataType>bytea|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>17</TypeId>
+    </column>
+    <column id="101" parent="50" name="authentication_id">
+      <Position>3</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="102" parent="50" name="user_name">
+      <Position>4</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="103" parent="50" name="client_id">
+      <Position>5</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="104" parent="51" name="code">
+      <Position>1</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="105" parent="51" name="authentication">
+      <Position>2</Position>
+      <DataType>bytea|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>17</TypeId>
+    </column>
+    <column id="106" parent="52" name="token_id">
+      <Position>1</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="107" parent="52" name="token">
+      <Position>2</Position>
+      <DataType>bytea|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>17</TypeId>
+    </column>
+    <column id="108" parent="52" name="authentication">
+      <Position>3</Position>
+      <DataType>bytea|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>17</TypeId>
+    </column>
+    <column id="109" parent="53" name="id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;oauth_user_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>oauth_user_id_seq</SequenceName>
+    </column>
+    <column id="110" parent="53" name="username">
+      <Position>2</Position>
+      <DataType>varchar(100)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="111" parent="53" name="password">
+      <Position>3</Position>
+      <DataType>varchar(1024)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="112" parent="53" name="email">
+      <Position>4</Position>
+      <DataType>varchar(1024)|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="113" parent="53" name="enabled">
+      <Position>5</Position>
+      <DataType>smallint|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>21</TypeId>
+    </column>
+    <column id="114" parent="53" name="account_non_expired">
+      <Position>6</Position>
+      <DataType>smallint|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>21</TypeId>
+    </column>
+    <column id="115" parent="53" name="credentials_non_expired">
+      <Position>7</Position>
+      <DataType>smallint|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>21</TypeId>
+    </column>
+    <column id="116" parent="53" name="account_non_locked">
+      <Position>8</Position>
+      <DataType>smallint|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <TypeId>21</TypeId>
+    </column>
+    <index id="117" parent="53" name="pk_user">
+      <ObjectId>108867</ObjectId>
+      <ColNames>id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <index id="118" parent="53" name="uk_user">
+      <ObjectId>108869</ObjectId>
+      <ColNames>username</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="119" parent="53" name="pk_user">
+      <ObjectId>108868</ObjectId>
+      <ColNames>id</ColNames>
+      <UnderlyingIndexName>pk_user</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <key id="120" parent="53" name="uk_user">
+      <ObjectId>108870</ObjectId>
+      <ColNames>username</ColNames>
+      <UnderlyingIndexName>uk_user</UnderlyingIndexName>
+    </key>
+    <column id="121" parent="54" name="id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;permission_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>permission_id_seq</SequenceName>
+    </column>
+    <column id="122" parent="54" name="name">
+      <Position>2</Position>
+      <DataType>varchar(512)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="123" parent="54" name="pk_permission">
+      <ObjectId>108843</ObjectId>
+      <ColNames>id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <index id="124" parent="54" name="uk_permission">
+      <ObjectId>108845</ObjectId>
+      <ColNames>name</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="125" parent="54" name="pk_permission">
+      <ObjectId>108844</ObjectId>
+      <ColNames>id</ColNames>
+      <UnderlyingIndexName>pk_permission</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <key id="126" parent="54" name="uk_permission">
+      <ObjectId>108846</ObjectId>
+      <ColNames>name</ColNames>
+      <UnderlyingIndexName>uk_permission</UnderlyingIndexName>
+    </key>
+    <column id="127" parent="55" name="permission_id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;permission_role_permission_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>permission_role_permission_id_seq</SequenceName>
+    </column>
+    <column id="128" parent="55" name="role_id">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;permission_role_role_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>permission_role_role_id_seq</SequenceName>
+    </column>
+    <index id="129" parent="55" name="pk_permission_role">
+      <ObjectId>108880</ObjectId>
+      <ColNames>permission_id
+role_id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="130" parent="55" name="pk_permission_role">
+      <ObjectId>108881</ObjectId>
+      <ColNames>permission_id
+role_id</ColNames>
+      <UnderlyingIndexName>pk_permission_role</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="131" parent="55" name="fk1_permission_role">
+      <ObjectId>108882</ObjectId>
+      <ColNames>permission_id</ColNames>
+      <RefTableId>108835</RefTableId>
+      <RefColPositions>1</RefColPositions>
+      <RefTableName>permission</RefTableName>
+      <RefKeyName>pk_permission</RefKeyName>
+      <RefColNames>id</RefColNames>
+    </foreign-key>
+    <foreign-key id="132" parent="55" name="fk2_permission_role">
+      <ObjectId>108887</ObjectId>
+      <ColNames>role_id</ColNames>
+      <RefTableId>108849</RefTableId>
+      <RefColPositions>1</RefColPositions>
+      <RefTableName>role</RefTableName>
+      <RefKeyName>pk_role</RefKeyName>
+      <RefColNames>id</RefColNames>
+    </foreign-key>
+    <column id="133" parent="56" name="id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;reviews_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>reviews_id_seq</SequenceName>
+    </column>
+    <column id="134" parent="56" name="professor">
+      <Position>2</Position>
+      <DataType>varchar(100)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="135" parent="56" name="student">
+      <Position>3</Position>
+      <DataType>varchar(100)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="136" parent="56" name="feedback">
+      <Position>4</Position>
+      <DataType>text|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>25</TypeId>
+    </column>
+    <column id="137" parent="56" name="review_grade">
+      <Position>5</Position>
+      <DataType>real|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <TypeId>700</TypeId>
+    </column>
+    <index id="138" parent="56" name="pk_reviews">
+      <ObjectId>108952</ObjectId>
+      <ColNames>id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="139" parent="56" name="pk_reviews">
+      <ObjectId>108953</ObjectId>
+      <ColNames>id</ColNames>
+      <UnderlyingIndexName>pk_reviews</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="140" parent="56" name="fk1_review_professor">
+      <ObjectId>108954</ObjectId>
+      <ColNames>professor</ColNames>
+      <RefTableId>108860</RefTableId>
+      <RefColPositions>2</RefColPositions>
+      <RefTableName>oauth_user</RefTableName>
+      <RefKeyName>uk_user</RefKeyName>
+      <RefColNames>username</RefColNames>
+    </foreign-key>
+    <foreign-key id="141" parent="56" name="fk1_review_student">
+      <ObjectId>108959</ObjectId>
+      <ColNames>student</ColNames>
+      <RefTableId>108860</RefTableId>
+      <RefColPositions>2</RefColPositions>
+      <RefTableName>oauth_user</RefTableName>
+      <RefKeyName>uk_user</RefKeyName>
+      <RefColNames>username</RefColNames>
+    </foreign-key>
+    <column id="142" parent="57" name="id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;role_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>role_id_seq</SequenceName>
+    </column>
+    <column id="143" parent="57" name="name">
+      <Position>2</Position>
+      <DataType>varchar(255)|0s</DataType>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>NULL::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="144" parent="57" name="pk_role">
+      <ObjectId>108854</ObjectId>
+      <ColNames>id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <index id="145" parent="57" name="uk_role">
+      <ObjectId>108856</ObjectId>
+      <ColNames>name</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="146" parent="57" name="pk_role">
+      <ObjectId>108855</ObjectId>
+      <ColNames>id</ColNames>
+      <UnderlyingIndexName>pk_role</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <key id="147" parent="57" name="uk_role">
+      <ObjectId>108857</ObjectId>
+      <ColNames>name</ColNames>
+      <UnderlyingIndexName>uk_role</UnderlyingIndexName>
+    </key>
+    <column id="148" parent="58" name="role_id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;role_user_role_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>role_user_role_id_seq</SequenceName>
+    </column>
+    <column id="149" parent="58" name="user_id">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4863</StateNumber>
+      <DefaultExpression>nextval(&apos;role_user_user_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>role_user_user_id_seq</SequenceName>
+    </column>
+    <index id="150" parent="58" name="pk_role_user">
+      <ObjectId>108901</ObjectId>
+      <ColNames>role_id
+user_id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="151" parent="58" name="pk_role_user">
+      <ObjectId>108902</ObjectId>
+      <ColNames>role_id
+user_id</ColNames>
+      <UnderlyingIndexName>pk_role_user</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="152" parent="58" name="fk1_role_user">
+      <ObjectId>108903</ObjectId>
+      <ColNames>role_id</ColNames>
+      <RefTableId>108849</RefTableId>
+      <RefColPositions>1</RefColPositions>
+      <RefTableName>role</RefTableName>
+      <RefKeyName>pk_role</RefKeyName>
+      <RefColNames>id</RefColNames>
+    </foreign-key>
+    <foreign-key id="153" parent="58" name="fk2_role_user">
+      <ObjectId>108908</ObjectId>
+      <ColNames>user_id</ColNames>
+      <RefTableId>108860</RefTableId>
+      <RefColPositions>1</RefColPositions>
+      <RefTableName>oauth_user</RefTableName>
+      <RefKeyName>pk_user</RefKeyName>
+      <RefColNames>id</RefColNames>
+    </foreign-key>
+    <column id="154" parent="59" name="id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>4865</StateNumber>
+      <DefaultExpression>nextval(&apos;user_keyphrase_id_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>user_keyphrase_id_seq</SequenceName>
+    </column>
+    <column id="155" parent="59" name="username">
+      <Position>2</Position>
+      <DataType>varchar(100)|0s</DataType>
+      <StateNumber>4865</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="156" parent="59" name="keyphrase">
+      <Position>3</Position>
+      <DataType>varchar(1024)|0s</DataType>
+      <StateNumber>4865</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="157" parent="59" name="message">
+      <Position>4</Position>
+      <DataType>varchar(1024)|0s</DataType>
+      <StateNumber>4865</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="158" parent="59" name="pk_user_keyphrase">
+      <ObjectId>108973</ObjectId>
+      <ColNames>id</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <index id="159" parent="59" name="pk_user_uniques">
+      <ObjectId>108975</ObjectId>
+      <ColNames>username</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="160" parent="59" name="pk_user_keyphrase">
+      <ObjectId>108974</ObjectId>
+      <ColNames>id</ColNames>
+      <UnderlyingIndexName>pk_user_keyphrase</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <key id="161" parent="59" name="pk_user_uniques">
+      <ObjectId>108976</ObjectId>
+      <ColNames>username</ColNames>
+      <UnderlyingIndexName>pk_user_uniques</UnderlyingIndexName>
+    </key>
+    <foreign-key id="162" parent="59" name="fk_username">
+      <ObjectId>108977</ObjectId>
+      <ColNames>username</ColNames>
+      <RefTableId>108860</RefTableId>
+      <RefColPositions>2</RefColPositions>
+      <RefTableName>oauth_user</RefTableName>
+      <RefKeyName>uk_user</RefKeyName>
+      <RefColNames>username</RefColNames>
+    </foreign-key>
   </database-model>
 </dataSource>

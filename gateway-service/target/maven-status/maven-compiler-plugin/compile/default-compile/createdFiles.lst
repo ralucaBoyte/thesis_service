@@ -1,0 +1,6 @@
+ro\ubbcluj\cs\ams\gateway\config\GatewayConfiguration.class
+ro\ubbcluj\cs\ams\gateway\config\GatewayProperties.class
+ro\ubbcluj\cs\ams\gateway\exception\ApiResponse.class
+ro\ubbcluj\cs\ams\gateway\exception\AuthAccessDeniedHandler.class
+ro\ubbcluj\cs\ams\gateway\exception\AuthEntryPoint.class
+ro\ubbcluj\cs\ams\gateway\GatewayServiceApplication.class

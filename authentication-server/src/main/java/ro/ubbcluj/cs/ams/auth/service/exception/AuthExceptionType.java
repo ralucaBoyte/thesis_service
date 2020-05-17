@@ -2,5 +2,6 @@ package ro.ubbcluj.cs.ams.auth.service.exception;
 
 public enum AuthExceptionType {
     INVALID_CREDENTIALS,
-    OK
+    OK,
+    PREVIOUSLY_LOGGED_FROM_ANOTHER_DEVICE
 }

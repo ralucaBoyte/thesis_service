@@ -1,0 +1,29 @@
+
+Y
+java:S1854Q"<Remove this useless assignment to local variable "password".(¼ùıŠ8Æ˜äú¡.
+e
+java:S1128%"CRemove this unused import 'java.security.GeneralSecurityException'.(À×öÏıÿÿÿÿ8 ñÿë¡.
+d
+java:S1128!"BRemove this unused import 'ro.ubbcluj.cs.ams.auth.utils.RSAUtils'.(Ëşªñúÿÿÿÿ8° Òî¡.
+J
+java:S1481Q"-Remove this unused "password" local variable.(¼ùıŠ8Æ˜äú¡.
+]
+java:S1854P";Remove this useless assignment to local variable "cryptor".(•ÈØ³ÿÿÿÿÿ8Æ˜äú¡.
+f
+java:S4488€"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(èÛÊú8×„‹û¡.
+l
+java:S4488="JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(íŠ£öüÿÿÿÿ8Â¯ÿã¡.
+[
+java:S1874i"9Remove this use of "OAuth2AccessToken"; it is deprecated.(”òêøøÿÿÿÿ8÷í¸é¡.
+n
+java:S1128"LRemove this unused import 'org.bouncycastle.jcajce.provider.asymmetric.RSA'.(ßšÉÈùÿÿÿÿ8¤Üşë¡.
+[
+java:S1874C"9Remove this use of "OAuth2AccessToken"; it is deprecated.(éºôÙúÿÿÿÿ8Â¯ÿã¡.
+X	java:S125Z"<This block of commented-out lines of code should be removed.(†€éˆ8Æ˜äú¡.
+N
+java:S1481P",Remove this unused "cryptor" local variable.(•ÈØ³ÿÿÿÿÿ8Æ˜äú¡.
+]	java:S125S"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Æ˜äú¡.
+W
+java:S1128'"5Remove this unused import 'java.security.PrivateKey'.(‘äÄîúÿÿÿÿ8¤Üşë¡.
+V
+java:S1874q"9Remove this use of "OAuth2AccessToken"; it is deprecated.(Ô»”®8÷í¸é¡.

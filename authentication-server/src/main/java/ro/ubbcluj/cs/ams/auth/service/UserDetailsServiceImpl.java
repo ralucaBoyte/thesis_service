@@ -43,6 +43,12 @@ public class UserDetailsServiceImpl implements UserDetailsService {
         return userDetails;
     }
 
+    public User updateUserByUsername(String public_key, String username){
+        return null;
+    }
+
+
+
 //    public Principal authenticateUser(UserDto userDto) {
 //
 //        logger.info("==========authenticateUser==========");
