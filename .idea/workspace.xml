@@ -2,21 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a61b7b3-5466-463f-b958-d2d675604b61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/storage_v2/_src_/database/ams-oauth2.QXeOag/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/storage_v2/_src_/database/ams-oauth2.QXeOag/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24024da00f346d91654718ec021d8ce65bdc9a8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/28fcd49337416fe271c3e184192c4eaae7927ea2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d47a8c59b6c73ba37490ab1b3102ff7c61d3573" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d47a8c59b6c73ba37490ab1b3102ff7c61d3573" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33455810f5462b7853b46853c1f9ab2b3679a939" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33455810f5462b7853b46853c1f9ab2b3679a939" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37efca8fa7912cc191c8a927792f06c065c565e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49177a010404c353d8bfcb0fd63a1c71941360b6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49177a010404c353d8bfcb0fd63a1c71941360b6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b71c6c427ed52887be694d7aa4ceebc406b153b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b71c6c427ed52887be694d7aa4ceebc406b153b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/643833b8ecb57e58a4dcfd93765907d49ee59af6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/643833b8ecb57e58a4dcfd93765907d49ee59af6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/892d0763589afc872b6a6904e031fa5c8c709cc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d3f20bf6cd47150f99ee9a93bafbd459962f94a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a8b37bd2a1925217d0dadb7981d5a1e08e0e014" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a8b37bd2a1925217d0dadb7981d5a1e08e0e014" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a634e624fb6e757b9c9a4bd13d46483ad5b16758" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a634e624fb6e757b9c9a4bd13d46483ad5b16758" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab140347689be92ff3b97659d22fca7257c86d4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2e28372fcca70eeae55a9950493482bc8c397f0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2e28372fcca70eeae55a9950493482bc8c397f0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/babe252ef412a53f58f2e5d5a00bd99ecc2935ed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6a46f5d82a7d0cd70647aa35bad82275e4325ed" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6a46f5d82a7d0cd70647aa35bad82275e4325ed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eeb1a273e31299b08f5c664f19d881aa1e86a0d4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eeb1a273e31299b08f5c664f19d881aa1e86a0d4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserDetailsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthExceptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthExceptionType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V002__insert_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V002__insert_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/ReviewExceptionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/ReviewExceptionType.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,7 +114,17 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
         <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="user_keyphrase: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
+        <item name="oauth_user: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ams-oauth2@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ams-oauth2: database" type="6d9b600a:PostgresImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="role: table" type="a93d6ac6:PostgresImplModel$LocalTable" />
       </path>
     </expand>
     <select />
@@ -111,14 +133,15 @@
     <session id="-1846299856">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -128,20 +151,21 @@
           <entry key="attendance_info" value="5" />
           <entry key="class" value="7" />
           <entry key="flyway_schema_history" value="1" />
-          <entry key="java" value="339" />
+          <entry key="java" value="367" />
           <entry key="oauth_access_token" value="1" />
           <entry key="oauth_client_details" value="1" />
           <entry key="oauth_client_token" value="1" />
           <entry key="oauth_refresh_token" value="1" />
           <entry key="oauth_user" value="10" />
           <entry key="permission" value="1" />
-          <entry key="permission_role" value="1" />
-          <entry key="reviews" value="9" />
-          <entry key="role" value="1" />
+          <entry key="permission_role" value="2" />
+          <entry key="reviews" value="11" />
+          <entry key="role" value="2" />
+          <entry key="role_user" value="1" />
           <entry key="specialization" value="2" />
           <entry key="sql" value="34" />
           <entry key="subject" value="2" />
-          <entry key="user_keyphrase" value="3" />
+          <entry key="user_keyphrase" value="4" />
           <entry key="xml" value="26" />
           <entry key="yml" value="45" />
         </counts>
@@ -149,8 +173,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="7" />
-          <entry key="Database Element" value="45" />
-          <entry key="JAVA" value="339" />
+          <entry key="Database Element" value="51" />
+          <entry key="JAVA" value="367" />
           <entry key="PLAIN_TEXT" value="15" />
           <entry key="SQL" value="16" />
           <entry key="Scratch" value="3" />
@@ -161,8 +185,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="326" />
-          <entry key="dummy" value="13" />
-          <entry key="java" value="7217" />
+          <entry key="dummy" value="22" />
+          <entry key="java" value="8788" />
           <entry key="sql" value="893" />
           <entry key="txt" value="32" />
           <entry key="xml" value="33" />
@@ -171,8 +195,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7217" />
-          <entry key="PLAIN_TEXT" value="213" />
+          <entry key="JAVA" value="8788" />
+          <entry key="PLAIN_TEXT" value="222" />
           <entry key="SQL" value="725" />
           <entry key="Scratch" value="326" />
           <entry key="XML" value="33" />
@@ -184,22 +208,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java">
+        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ProfessorResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java">
+        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewAddedDto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="7" column="67" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="67" />
+            <state relative-caret-position="266">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -207,8 +228,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1395">
-              <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+            <state relative-caret-position="268">
+              <caret line="168" selection-start-line="168" selection-end-line="168" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/reviews">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -217,61 +259,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/config/GatewayProperties.java">
+        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="-56">
+              <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/exception/ApiResponse.java">
+        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/exception/AuthAccessDeniedHandler.java">
+        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="359">
+              <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/exception/AuthEntryPoint.java">
+        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/config/GatewayConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthExceptionType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="41" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/user_keyphrase">
+        <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/role">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
               <filtering enabled="true" />
@@ -284,8 +320,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -303,7 +339,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.java" />
         <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.java" />
         <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/impl/AttendanceDaoImpl.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/AES.java" />
@@ -327,7 +362,6 @@
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/impl/ReviewDaoImpl.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ReviewMapper.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ReviewService.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/ReviewExceptionType.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewRequest.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewResponse.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -337,22 +371,24 @@
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserJpaRepository.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserDao.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserDaoJpa.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V002__insert_data.sql" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/model/User.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/model/AuthUserDetail.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserResponse.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserKeyphraseResponse.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserDto.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/UserDao.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/Service.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserMapper.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V003__new_data.sql" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthExceptionType.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewAddedDto.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/ReviewExceptionType.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserResponse.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/UserDao.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserMapper.java" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/Service.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java" />
       </list>
     </option>
@@ -379,10 +415,10 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="977" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="978" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -390,6 +426,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -451,6 +489,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="attendance" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
@@ -753,8 +812,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -763,8 +820,9 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Eu/Incercari_Licenta/servere-licenta/thesis_service/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589742702639" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589827854266" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -894,15 +952,16 @@
       <workItem from="1589525296131" duration="4588000" />
       <workItem from="1589576402824" duration="2395000" />
       <workItem from="1589607785774" duration="34382000" />
-      <workItem from="1589703165158" duration="26424000" />
+      <workItem from="1589703165158" duration="26772000" />
+      <workItem from="1589806628463" duration="9183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90322000" />
+    <option name="totallyTimeSpent" value="99853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1618" height="877" extended-state="6" />
+    <frame x="-8" y="-8" width="1618" height="877" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23657927" />
@@ -915,7 +974,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875155" visible="true" weight="0.44386423" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875155" visible="true" weight="0.31984335" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993758" weight="0.3537859" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -935,7 +994,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.16354556" />
-      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.23782772" />
+      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.21598002" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -996,87 +1055,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/shared/gateway-service.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/shared/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/model/Permission.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.2.RELEASE/spring-security-config-5.2.2.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-577">
-          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.2.RELEASE/spring-security-core-5.2.2.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/AuthorizationServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/utils/RSAUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserDaoJpa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserJpaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserJpaRepository.java" />
     <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserDetailsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1084,16 +1063,6 @@
           <folding>
             <element signature="e#1822#1823#0" expanded="true" />
             <element signature="e#1848#1849#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="17" column="1" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1112,13 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="1835" selection-start-line="1835" selection-end-line="1835" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/reviews">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1147,9 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#1773#1774#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1178,16 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/ReviewsConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1226,24 +1175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/WebSecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-551">
           <caret line="58" column="34" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1254,56 +1189,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="62" column="66" selection-start-line="62" selection-start-column="66" selection-end-line="62" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V003__new_data.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1311,41 +1196,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="67" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthExceptionType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/cryptonode/jncryptor/jncryptor/1.2.0/jncryptor-1.2.0.jar!/org/cryptonode/jncryptor/AES256JNCryptor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="110" selection-start-line="110" selection-end-line="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/config/GatewayConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1377,17 +1231,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java">
+    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/config/GatewayConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1395">
-          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        <state relative-caret-position="114">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthExceptionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/WebSecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/ReviewsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/user_keyphrase">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/controller/AttendanceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-852">
+          <caret line="42" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/exception/AttendanceServiceException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/exception/AttendanceExceptionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/ReviewExceptionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/permission_role">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/role_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ProfessorResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/role">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewAddedDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/reviews">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />

@@ -2,12 +2,12 @@ package ro.ubbcluj.cs.ams.auth.service;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.jooq.Record;
 import org.springframework.beans.factory.annotation.Autowired;
 import ro.ubbcluj.cs.ams.auth.dao.review.ReviewDao;
 import ro.ubbcluj.cs.ams.auth.dao.user.UserDao;
-import ro.ubbcluj.cs.ams.auth.dto.ReviewResponse;
-import ro.ubbcluj.cs.ams.auth.dto.UserDto;
-import ro.ubbcluj.cs.ams.auth.dto.UserKeyphraseResponse;
+import ro.ubbcluj.cs.ams.auth.dto.*;
+import ro.ubbcluj.cs.ams.auth.model.tables.records.OauthUserRecord;
 import ro.ubbcluj.cs.ams.auth.model.tables.records.ReviewsRecord;
 import ro.ubbcluj.cs.ams.auth.model.tables.records.UserKeyphraseRecord;
 
@@ -38,6 +38,21 @@ public class ServiceImpl implements Service {
         List<ReviewsRecord> reviewsRecords = reviewDao.getAllReviewsForProfessor(professor);
 
         return reviewMapper.mapToReviews(reviewsRecords);
+    }
+
+    @Override
+    public Integer addReviewForProfessor(ReviewAddedDto reviewAddedDto, String student) {
+        logger.info("+++++++++ save new review for professor +++++++");
+        Integer reviewAdded = reviewDao.addReviewForTeacher(reviewAddedDto, student);
+        return reviewAdded;
+    }
+
+    @Override
+    public List<ProfessorResponse> getAllProfessor() {
+        logger.info("+++++++++ get allprofessors +++++++");
+        List<OauthUserRecord> professors = userDao.getAllProfessors();
+        return userMapper.mapOauthUsersToProfessors(professors);
+       // return professors;
     }
 
 

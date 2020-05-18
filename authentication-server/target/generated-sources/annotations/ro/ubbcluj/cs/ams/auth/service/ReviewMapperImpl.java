@@ -10,7 +10,7 @@ import ro.ubbcluj.cs.ams.auth.model.tables.records.ReviewsRecord;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2020-05-17T20:38:17+0300",
+    date = "2020-05-18T18:11:25+0300",
     comments = "version: 1.3.0.Beta2, compiler: javac, environment: Java 10.0.2 (Oracle Corporation)"
 )
 @Component

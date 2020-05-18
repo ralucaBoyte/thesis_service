@@ -6,6 +6,7 @@ import org.jooq.DSLContext;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import ro.ubbcluj.cs.ams.auth.dao.review.ReviewDao;
+import ro.ubbcluj.cs.ams.auth.dto.ReviewAddedDto;
 import ro.ubbcluj.cs.ams.auth.model.Tables;
 import ro.ubbcluj.cs.ams.auth.model.tables.records.ReviewsRecord;
 
@@ -29,12 +30,15 @@ public class ReviewDaoImpl implements ReviewDao {
       return reviewsRecords;
     }
 
-//    @Override
-//    public List<ActivityRecord> getAllActivities() {
-//        logger.info("++++++++ LOGGING find all subject ++++++++");
-//
-//        List<ActivityRecord> activities = dsl.selectFrom(Tables.ACTIVITY)
-//                .fetch();
-//        return activities;
-//    }
+    @Override
+    public Integer addReviewForTeacher(ReviewAddedDto reviewAddedDto, String student) {
+        logger.info("++++++++++++ADD REVIEWW FOR PROFESSOR +++++++");
+
+        Integer addReview = dsl.insertInto(Tables.REVIEWS, Tables.REVIEWS.PROFESSOR,
+                Tables.REVIEWS.STUDENT, Tables.REVIEWS.FEEDBACK, Tables.REVIEWS.REVIEW_GRADE)
+                .values(reviewAddedDto.getProfessor(), student, reviewAddedDto.getFeedback(), reviewAddedDto.getReviewGrade())
+                .execute();
+        return addReview;
+    }
+
 }

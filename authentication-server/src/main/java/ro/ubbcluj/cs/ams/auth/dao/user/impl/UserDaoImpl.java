@@ -3,6 +3,7 @@ package ro.ubbcluj.cs.ams.auth.dao.user.impl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.jooq.DSLContext;
+import org.jooq.Record;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import ro.ubbcluj.cs.ams.auth.dao.review.impl.ReviewDaoImpl;
@@ -11,6 +12,8 @@ import ro.ubbcluj.cs.ams.auth.dto.UserDto;
 import ro.ubbcluj.cs.ams.auth.model.Tables;
 import ro.ubbcluj.cs.ams.auth.model.tables.records.OauthUserRecord;
 import ro.ubbcluj.cs.ams.auth.model.tables.records.UserKeyphraseRecord;
+
+import java.util.List;
 
 import static org.jooq.impl.DSL.count;
 
@@ -65,5 +68,28 @@ public class UserDaoImpl implements UserDao {
                 .fetchOne();
 
         return userKeyphraseRecord;
+    }
+
+    @Override
+    public List<OauthUserRecord> getAllProfessors() {
+//        List<Record> getProfessors = dsl.select()
+//                .from(Tables.OAUTH_USER)
+//                    .leftOuterJoin(Tables.ROLE_USER
+//                        .join(Tables.ROLE)
+//                        .on(Tables.ROLE_USER.ROLE_ID.eq(Tables.ROLE.ID))
+//                        //.where(Tables.ROLE.NAME.eq("PROFESSOR"))
+//                    )
+//                    .on(Tables.ROLE_USER.USER_ID.eq(Tables.OAUTH_USER.ID))
+//                .fetch();
+
+        List<OauthUserRecord> professors = dsl.select()
+                .from(Tables.OAUTH_USER)
+                .leftOuterJoin(Tables.ROLE_USER)
+                .on(Tables.OAUTH_USER.ID.eq(Tables.ROLE_USER.USER_ID))
+                .leftOuterJoin(Tables.ROLE)
+                .on(Tables.ROLE_USER.ROLE_ID.eq(Tables.ROLE.ID))
+                .where(Tables.ROLE.NAME.eq("PROFESSOR"))
+                .fetchInto(Tables.OAUTH_USER);
+        return professors;
     }
 }

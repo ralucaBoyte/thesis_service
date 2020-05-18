@@ -1,5 +1,6 @@
 ro\ubbcluj\cs\ams\auth\dto\ReviewResponse.class
 ro\ubbcluj\cs\ams\auth\model\tables\pojos\OauthRefreshToken.class
+ro\ubbcluj\cs\ams\auth\dto\ReviewAddedDto.class
 ro\ubbcluj\cs\ams\auth\dto\ReviewResponse$ReviewResponseBuilder.class
 ro\ubbcluj\cs\ams\auth\model\tables\OauthClientDetails.class
 ro\ubbcluj\cs\ams\auth\model\tables\pojos\FlywaySchemaHistory.class
@@ -29,6 +30,7 @@ ro\ubbcluj\cs\ams\auth\model\tables\pojos\OauthClientToken.class
 ro\ubbcluj\cs\ams\auth\model\tables\records\OauthCodeRecord.class
 ro\ubbcluj\cs\ams\auth\model\Keys.class
 ro\ubbcluj\cs\ams\auth\AuthorizationServerApplication.class
+ro\ubbcluj\cs\ams\auth\dto\ProfessorResponse$ProfessorResponseBuilder.class
 ro\ubbcluj\cs\ams\auth\model\tables\pojos\OauthAccessToken.class
 ro\ubbcluj\cs\ams\auth\model\tables\OauthUser.class
 ro\ubbcluj\cs\ams\auth\model\tables\records\UserKeyphraseRecord.class
@@ -69,6 +71,7 @@ ro\ubbcluj\cs\ams\auth\config\WebSecurityConfiguration.class
 ro\ubbcluj\cs\ams\auth\dto\UserKeyphraseResponse.class
 ro\ubbcluj\cs\ams\auth\service\exception\AuthServiceException.class
 ro\ubbcluj\cs\ams\auth\dto\UserKeyphraseResponse$UserKeyphraseResponseBuilder.class
+ro\ubbcluj\cs\ams\auth\dto\ReviewAddedDto$ReviewAddedDtoBuilder.class
 ro\ubbcluj\cs\ams\auth\model\tables\pojos\PermissionRole.class
 ro\ubbcluj\cs\ams\auth\model\tables\pojos\RoleUser.class
 ro\ubbcluj\cs\ams\auth\service\UserMapper.class
@@ -77,6 +80,7 @@ ro\ubbcluj\cs\ams\auth\model\tables\OauthApprovals.class
 ro\ubbcluj\cs\ams\auth\utils\RSAUtils.class
 ro\ubbcluj\cs\ams\auth\model\Public.class
 ro\ubbcluj\cs\ams\auth\model\tables\pojos\OauthCode.class
+ro\ubbcluj\cs\ams\auth\dto\ProfessorResponse.class
 ro\ubbcluj\cs\ams\auth\controller\AuthController.class
 ro\ubbcluj\cs\ams\auth\model\Keys$ForeignKeys0.class
 ro\ubbcluj\cs\ams\auth\model\tables\records\RoleUserRecord.class

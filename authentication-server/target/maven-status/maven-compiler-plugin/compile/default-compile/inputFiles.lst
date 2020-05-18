@@ -29,6 +29,7 @@ D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\auth\model\tables\OauthClientToken.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src\main\java\ro\ubbcluj\cs\ams\auth\model\Role.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src\main\java\ro\ubbcluj\cs\ams\auth\config\ReviewsConfig.java
+D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src\main\java\ro\ubbcluj\cs\ams\auth\dto\ReviewAddedDto.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src\main\java\ro\ubbcluj\cs\ams\auth\config\WebSecurityConfiguration.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\auth\model\tables\Reviews.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\auth\model\tables\pojos\OauthClientToken.java
@@ -42,6 +43,7 @@ D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\tar
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src\main\java\ro\ubbcluj\cs\ams\auth\config\AuthConfiguration.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\auth\model\tables\pojos\OauthClientDetails.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src\main\java\ro\ubbcluj\cs\ams\auth\model\AuthUserDetail.java
+D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\src\main\java\ro\ubbcluj\cs\ams\auth\dto\ProfessorResponse.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\auth\model\tables\pojos\OauthApprovals.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\auth\model\tables\records\ReviewsRecord.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\authentication-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\auth\model\tables\FlywaySchemaHistory.java

@@ -7,6 +7,7 @@ import org.apache.commons.codec.binary.Base64;
 import org.cryptonode.jncryptor.AES256JNCryptor;
 import org.cryptonode.jncryptor.CryptorException;
 import org.cryptonode.jncryptor.JNCryptor;
+import org.jooq.Record;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,9 +23,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.reactive.function.BodyInserters;
 import org.springframework.web.reactive.function.client.WebClient;
 import ro.ubbcluj.cs.ams.auth.config.AuthConfiguration;
-import ro.ubbcluj.cs.ams.auth.dto.ReviewResponse;
-import ro.ubbcluj.cs.ams.auth.dto.UserDto;
-import ro.ubbcluj.cs.ams.auth.dto.UserKeyphraseResponse;
+import ro.ubbcluj.cs.ams.auth.dto.*;
 import ro.ubbcluj.cs.ams.auth.service.Service;
 import ro.ubbcluj.cs.ams.auth.service.exception.AuthExceptionType;
 import ro.ubbcluj.cs.ams.auth.service.exception.AuthServiceException;
@@ -170,6 +169,45 @@ public class AuthController {
 
         return new ResponseEntity<>(reviewResponses, HttpStatus.OK);
 
+
+    }
+
+    @ApiOperation(value = "Add review")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = ReviewExceptionType.class),
+            @ApiResponse(code = 400, message = "ERROR", response = ReviewExceptionType.class),
+    })
+    @RequestMapping(value = "/reviews", method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<ReviewExceptionType> addReview(Principal principal, @RequestBody ReviewAddedDto reviewAddedDto, BindingResult result) {
+
+        logger.info("+++++++++ LOGGING add review+++++++++");
+
+        logger.info(principal.getName());
+        Integer reviewAdded = service.addReviewForProfessor(reviewAddedDto, principal.getName());
+
+        if(reviewAdded != 0) {
+            logger.info("+++++++++SUCCESSFUL ADDED REVIEW+++++++++");
+            return new ResponseEntity<>(ReviewExceptionType.REVIEW_ADDED_SUCCESFULLY, HttpStatus.OK);
+        }
+        logger.info("+++++++++ERROR ADDING REVIEW+++++++++");
+        return new ResponseEntity<>(ReviewExceptionType.ERROR_ADDING_REVIEW, HttpStatus.BAD_REQUEST);
+
+
+    }
+
+    @ApiOperation(value = "Get professors")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = ReviewExceptionType.class),
+            @ApiResponse(code = 400, message = "ERROR", response = ReviewExceptionType.class),
+    })
+    @RequestMapping(value = "/professors", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<List<ProfessorResponse>> getProfessors(Principal principal) {
+
+        logger.info("+++++++++ LOGGING get all professors+++++++++");
+
+        logger.info(principal.getName());
+        List<ProfessorResponse> professors = service.getAllProfessor();
+        return new ResponseEntity<>(professors, HttpStatus.OK);
 
     }
 

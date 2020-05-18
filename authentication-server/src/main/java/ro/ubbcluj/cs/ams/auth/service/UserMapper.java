@@ -1,6 +1,8 @@
 package ro.ubbcluj.cs.ams.auth.service;
 
+import org.jooq.Record;
 import org.mapstruct.Mapper;
+import ro.ubbcluj.cs.ams.auth.dto.ProfessorResponse;
 import ro.ubbcluj.cs.ams.auth.dto.ReviewResponse;
 import ro.ubbcluj.cs.ams.auth.dto.UserKeyphraseResponse;
 import ro.ubbcluj.cs.ams.auth.model.tables.records.OauthUserRecord;
@@ -13,4 +15,5 @@ import java.util.List;
 public interface UserMapper {
     List<ReviewResponse> mapToReviews(List<ReviewsRecord> reviewsRecords);
     UserKeyphraseResponse mapToUserKeyphrase(UserKeyphraseRecord userKeyphraseRecord);
-    }
+    List<ProfessorResponse> mapOauthUsersToProfessors(List<OauthUserRecord> professorResponses);
+}
