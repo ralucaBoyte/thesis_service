@@ -14,10 +14,14 @@ public interface Service {
 
     List<ChatMessageDTO> findAllMessages();
 
-    List<ChatUserDTO> findAllUsers();
+//    List<ChatUserDTO> findAllUsers();
+//
+//    List<CustomChatMessagesDTO> findAllCustomUserChat(String username);
+//
+//    List<List<ChatMessageDTO>> custom(String username);
 
-    List<CustomChatMessagesDTO> findAllCustomUserChat(String username);
+    Map<Integer, List<ChatMessageDTO>> getChatMessagesForUser(String username);
 
-    List<List<ChatMessageDTO>> custom(String username);
-   // List<>
+    Integer addNewChatMessage(ChatMessageDTO chatMessageDTO);
+
 }

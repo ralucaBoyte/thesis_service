@@ -201,11 +201,11 @@ public class AuthController {
             @ApiResponse(code = 400, message = "ERROR", response = ReviewExceptionType.class),
     })
     @RequestMapping(value = "/professors", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
-    public ResponseEntity<List<ProfessorResponse>> getProfessors(Principal principal) {
+    public ResponseEntity<List<ProfessorResponse>> getProfessors() {
 
         logger.info("+++++++++ LOGGING get all professors+++++++++");
 
-        logger.info(principal.getName());
+        //logger.info(principal.getName());
         List<ProfessorResponse> professors = service.getAllProfessor();
         return new ResponseEntity<>(professors, HttpStatus.OK);
 

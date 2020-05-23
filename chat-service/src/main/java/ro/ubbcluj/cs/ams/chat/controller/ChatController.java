@@ -12,12 +12,15 @@ import org.springframework.messaging.simp.annotation.SubscribeMapping;
 import org.springframework.stereotype.Controller;
 import ro.ubbcluj.cs.ams.chat.dto.ChatMessageDTO;
 import ro.ubbcluj.cs.ams.chat.dto.ChatUserDTO;
+import ro.ubbcluj.cs.ams.chat.service.Service;
 
 @Controller
 public class ChatController {
 
     private final Logger logger = LogManager.getLogger(ChatController.class);
 
+    @Autowired
+    Service service;
 
     /*-------------------- Group (Public) chat--------------------
     @MessageMapping("/sendMessage")
@@ -51,7 +54,8 @@ public class ChatController {
         logger.info("New message from " + chatMessage.getSender() + " to " + chatMessage.getReceiver());
         simpMessagingTemplate.convertAndSendToUser(
                 chatMessage.getReceiver(), "/reply", chatMessage);
-        //return chatMessage;
+        Integer newChatMessage = service.addNewChatMessage(chatMessage);
+        logger.info("New chat message added: " + chatMessage);
     }
 
     @MessageMapping("/addPrivateUser")

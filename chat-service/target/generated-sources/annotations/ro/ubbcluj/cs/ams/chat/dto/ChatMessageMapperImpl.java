@@ -12,7 +12,7 @@ import ro.ubbcluj.cs.ams.subject.chat.tables.records.ChatUserRecord;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2020-05-17T11:17:28+0300",
+    date = "2020-05-20T17:35:12+0300",
     comments = "version: 1.3.0.Beta2, compiler: javac, environment: Java 10.0.2 (Oracle Corporation)"
 )
 @Component
@@ -29,6 +29,7 @@ public class ChatMessageMapperImpl implements ChatMessageMapper {
         chatMessageDTO.sender( messageRecord.getSender() );
         chatMessageDTO.receiver( messageRecord.getReceiver() );
         chatMessageDTO.content( messageRecord.getContent() );
+        chatMessageDTO.conversationId( messageRecord.getConversationId() );
 
         return chatMessageDTO.build();
     }

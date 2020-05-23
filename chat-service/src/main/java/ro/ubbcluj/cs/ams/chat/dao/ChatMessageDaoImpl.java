@@ -8,6 +8,7 @@ import org.jooq.Result;
 import org.jooq.Table;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import ro.ubbcluj.cs.ams.chat.dto.ChatMessageDTO;
 import ro.ubbcluj.cs.ams.subject.chat.Tables;
 import ro.ubbcluj.cs.ams.subject.chat.tables.records.ChatMessageRecord;
 
@@ -28,9 +29,6 @@ public class ChatMessageDaoImpl implements ChatMessageDao {
     public List<ChatMessageRecord> findAllChatMessages() {
         logger.info("+++++++++++ Get all messages ++++++++++++++++");
 
-
-            //List<ChatMessageRecord> messageRecords = dsl.select().from(Tables.CHAT_MESSAGE).fetch();
-
             List<ChatMessageRecord> messageRecords = new ArrayList<>();
             ChatMessageRecord messageRecord = dsl.selectFrom(Tables.CHAT_MESSAGE)
                     .where(Tables.CHAT_MESSAGE.ID.eq(1)).fetchOne();
@@ -39,20 +37,20 @@ public class ChatMessageDaoImpl implements ChatMessageDao {
             return messageRecords;
     }
 
-    @Override
-    public List<ChatMessageRecord> customChatResponse(String username) {
-
-        List<ChatMessageRecord> chat_messages = dsl
-                                                .selectFrom(Tables.CHAT_MESSAGE)
-                                                .where(Tables.CHAT_MESSAGE.SENDER.eq(username))
-                                                .or(Tables.CHAT_MESSAGE.RECEIVER.eq(username))
-                                                //.groupBy(Tables.CHAT_MESSAGE.SENDER)
-                                                .orderBy(Tables.CHAT_MESSAGE.RECEIVER)
-                                                .fetch();
-        //CustomChatMessagesDTO
-
-        return chat_messages;
-    }
+//    @Override
+//    public List<ChatMessageRecord> customChatResponse(String username) {
+//
+//        List<ChatMessageRecord> chat_messages = dsl
+//                                                .selectFrom(Tables.CHAT_MESSAGE)
+//                                                .where(Tables.CHAT_MESSAGE.SENDER.eq(username))
+//                                                .or(Tables.CHAT_MESSAGE.RECEIVER.eq(username))
+//                                                //.groupBy(Tables.CHAT_MESSAGE.SENDER)
+//                                                .orderBy(Tables.CHAT_MESSAGE.RECEIVER)
+//                                                .fetch();
+//
+//
+//        return chat_messages;
+//    }
 
     @Override
     public Map<Integer, Result<ChatMessageRecord>> custom(String username) {
@@ -66,5 +64,14 @@ public class ChatMessageDaoImpl implements ChatMessageDao {
         logger.info("++++++++++++++++++CHAT MESSAGES DAO ++++++++++++++");
 
         return group1;
+    }
+
+    @Override
+    public Integer addNewMessage(ChatMessageDTO chatMessageDTO) {
+        Integer messageAdded = dsl.insertInto(Tables.CHAT_MESSAGE, Tables.CHAT_MESSAGE.SENDER,
+                Tables.CHAT_MESSAGE.RECEIVER, Tables.CHAT_MESSAGE.CONTENT, Tables.CHAT_MESSAGE.CONVERSATION_ID)
+                .values(chatMessageDTO.getSender(), chatMessageDTO.getReceiver(), chatMessageDTO.getContent(), chatMessageDTO.getConversationId())
+                .execute();
+        return messageAdded;
     }
 }

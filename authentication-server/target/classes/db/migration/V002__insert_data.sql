@@ -1,5 +1,5 @@
 INSERT INTO oauth_client_details (client_id, client_secret, web_server_redirect_uri, scope, access_token_validity, refresh_token_validity, resource_ids, authorized_grant_types, additional_information) VALUES
- ('mobile', '$2a$10$.nXilPpfyYleLrJFT1lAF.1FQss/UgLB4HHtlrroqRLCaX8ZafwEm', 'http://localhost:8080/code', 'READ,WRITE', '3600', '10000', null, 'authorization_code,password,refresh_token,implicit', '{}');
+ ('mobile', '$2a$10$.nXilPpfyYleLrJFT1lAF.1FQss/UgLB4HHtlrroqRLCaX8ZafwEm', 'http://localhost:8080/code', 'READ,WRITE', '7200', '10000', null, 'authorization_code,password,refresh_token,implicit', '{}');
 
  INSERT INTO PERMISSION (NAME) VALUES
  ('create_profile'),
@@ -18,7 +18,7 @@ INSERT INTO oauth_client_details (client_id, client_secret, web_server_redirect_
      (2,2),  /* read operator */
      (3,2);  /* update operator */
 
-insert into oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('1', 'dana','$2a$10$/K4k2PWk9l5N1Mg8uBdFp.a0nJT3OxdxJHlKpQG9CScm0V185lY/u', 'dana@yahoo.com', '1', '1', '1', '1');
+insert into oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('1', 'dana','$2a$04$8sSn7YKQT5nV8eN57QDTFORYZtB.V5VTT1lolHSwG1jB.7J2iKydK', 'dana@yahoo.com', '1', '1', '1', '1');
 insert into  oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('2', 'roxana', '$2a$10$tUJSiu11slhhYj4Rv1X3/.KG4NmvWy.zyK6oeewkYIeGlxoFgUPn2','roxana@yahoo.com',  '1', '1', '1', '1');
 insert into  oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('3', 'student1', '$2a$04$XPIgWrWdMCxkkUZgyODgyOagi.RubM81ihOJ2hioSPdohlErfMvzO','student1@yahoo.com',  '1', '1', '1', '1');
 insert into  oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('4', 'student2', '$2a$04$API7oQKch0TAYcBEnzCpsuqqB2K0dmKLBSNO748jrzNxEhqDikdoW','student2@yahoo.com',  '1', '1', '1', '1');
