@@ -17,4 +17,6 @@ public class AttendanceInfoReq {
     private Integer activityId;
     @NotNull
     private Integer remainingTime;
+    @NotNull
+    private Integer week;
 }

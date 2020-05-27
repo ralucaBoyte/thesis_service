@@ -1,20 +1,16 @@
 
-Y
-java:S2629"7Use the built-in formatting to construct this argument.(ˆ…Ä‹ùÿÿÿÿ8±Éõ¨ .
-V
-java:S3416"4Update this logger to use "AttendanceDaoImpl.class".(Ÿò²Ÿùÿÿÿÿ8±Éõ¨ .
 T
-java:S26298"7Use the built-in formatting to construct this argument.(Á™ÕŸ8¹‡ğÎ .
-^
-java:S34578"AFormat specifiers should be used instead of string concatenation.(Á™ÕŸ8¹‡ğÎ .
-c
-java:S3457"AFormat specifiers should be used instead of string concatenation.(ˆ…Ä‹ùÿÿÿÿ8±Éõ¨ .
-^
-java:S3457,"AFormat specifiers should be used instead of string concatenation.(êí 8ï—¡Ë .
-s
-java:S1192"QDefine a constant instead of duplicating this literal "++++++++++++++++" 3 times.(ˆ…Ä‹ùÿÿÿÿ8¹‡ğÎ .
-T
-java:S2629,"7Use the built-in formatting to construct this argument.(êí 8ï—¡Ë .
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğâ³8±Éõ¨ .
+java:S26291"7Use the built-in formatting to construct this argument.(êí 8ï—¡Ë .
 }
-java:S1128"[Remove this unused import 'ro.ubbcluj.cs.ams.attendance.model.tables.pojos.AttendanceInfo'.(üíÎÄúÿÿÿÿ8µ¿ïÎ .
+java:S1128"[Remove this unused import 'ro.ubbcluj.cs.ams.attendance.model.tables.pojos.AttendanceInfo'.(üíÎÄúÿÿÿÿ8µ¿ïÎ .
+Y
+java:S2629$"7Use the built-in formatting to construct this argument.(ˆ…Ä‹ùÿÿÿÿ8±Éõ¨ .
+V
+java:S3416"4Update this logger to use "AttendanceDaoImpl.class".(Ÿò²Ÿùÿÿÿÿ8±Éõ¨ .
+m	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÇÊ8ß… İ¤.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğâ³8±Éõ¨ .
+m	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÇÊ8¯ÁŠÙ¤.
+T
+java:S2629="7Use the built-in formatting to construct this argument.(Á™ÕŸ8¹‡ğÎ .
+H
+java:S1128",Remove this unused import 'org.jooq.Record'.(ï¤‰y8ÎµÇÁ¤.

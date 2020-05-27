@@ -4,55 +4,62 @@
     <list default="true" id="0a61b7b3-5466-463f-b958-d2d675604b61" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/0b856468-29ec-4c6a-9dfa-d52ab7e02d13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0b856468-29ec-4c6a-9dfa-d52ab7e02d13.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/0b856468-29ec-4c6a-9dfa-d52ab7e02d13/storage_v2/_src_/database/ams-attendance.r8LrNA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0b856468-29ec-4c6a-9dfa-d52ab7e02d13/storage_v2/_src_/database/ams-attendance.r8LrNA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0eeae35-ff3d-4522-908b-36e3ed17eb15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b0eeae35-ff3d-4522-908b-36e3ed17eb15.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0eeae35-ff3d-4522-908b-36e3ed17eb15/storage_v2/_src_/database/ams-chat.nj8_qQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b0eeae35-ff3d-4522-908b-36e3ed17eb15/storage_v2/_src_/database/ams-chat.nj8_qQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/storage_v2/_src_/database/ams-oauth2.QXeOag/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/storage_v2/_src_/database/ams-oauth2.QXeOag/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/092cfe87190cc39fda25f2f85feb35a058570ac2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/092cfe87190cc39fda25f2f85feb35a058570ac2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c70e3d40a2b95288de7bc9a0c08013c79af91b0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c70e3d40a2b95288de7bc9a0c08013c79af91b0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a90e5ed5022ef0ad1816d9f55b16c2a988d410a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a90e5ed5022ef0ad1816d9f55b16c2a988d410a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d47a8c59b6c73ba37490ab1b3102ff7c61d3573" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d47a8c59b6c73ba37490ab1b3102ff7c61d3573" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33455810f5462b7853b46853c1f9ab2b3679a939" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33455810f5462b7853b46853c1f9ab2b3679a939" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f321b0c2bbc8aebbe385d1d79784b77a5482697" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f321b0c2bbc8aebbe385d1d79784b77a5482697" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/424a119023f8d227935b85de6b69efd42a6b616e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/424a119023f8d227935b85de6b69efd42a6b616e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b71c6c427ed52887be694d7aa4ceebc406b153b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b71c6c427ed52887be694d7aa4ceebc406b153b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/625080f435de78b20e6f9921ee451e9521eb71d8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/625080f435de78b20e6f9921ee451e9521eb71d8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6365e16324291a71caa89d245e43358e925da269" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6365e16324291a71caa89d245e43358e925da269" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c11abcd80d7bddaaa3d77eb77ccb4553ab50545" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c11abcd80d7bddaaa3d77eb77ccb4553ab50545" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5870e3e5ff536bd319f31500cdd003c79fb930b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5870e3e5ff536bd319f31500cdd003c79fb930b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a634e624fb6e757b9c9a4bd13d46483ad5b16758" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a634e624fb6e757b9c9a4bd13d46483ad5b16758" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2e28372fcca70eeae55a9950493482bc8c397f0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2e28372fcca70eeae55a9950493482bc8c397f0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5442eb40c8d147a464574a2edd73f800874d3f1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5442eb40c8d147a464574a2edd73f800874d3f1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1bc69f6a9f08f63fce4bf42a7cc4baaaf0028e9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1bc69f6a9f08f63fce4bf42a7cc4baaaf0028e9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d89d94768f7ffada7caff08fc556e34081cb3324" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d89d94768f7ffada7caff08fc556e34081cb3324" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6a46f5d82a7d0cd70647aa35bad82275e4325ed" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6a46f5d82a7d0cd70647aa35bad82275e4325ed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca911aa6f9dc6d47127d0077b95cd5533d070352" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca911aa6f9dc6d47127d0077b95cd5533d070352" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8543ac0b9439d57eaf6720252a972f9334a6320" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8543ac0b9439d57eaf6720252a972f9334a6320" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f859f665f809c13fe2805c0c651e648ba34ecdca" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f859f665f809c13fe2805c0c651e648ba34ecdca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V002__insert_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V002__insert_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/target/classes/db/migration/V002__insert_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/target/classes/db/migration/V002__insert_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication-server/target/classes/ro/ubbcluj/cs/ams/auth/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/target/classes/ro/ubbcluj/cs/ams/auth/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/controller/ChatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/controller/RestChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/controller/RestChatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/service/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/service/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/service/ServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/resources/db/migration/V001__initial.sql" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/resources/db/migration/V001__initial.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/src/main/resources/db/migration/V002__insert_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/src/main/resources/db/migration/V002__insert_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/chat-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/chat-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/chat-service-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/chat-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/db/migration/V001__initial.sql" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/db/migration/V001__initial.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/db/migration/V002__insert_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/db/migration/V002__insert_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/controller/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/controller/ChatController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/controller/RestChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/controller/RestChatController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/controller/AttendanceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/controller/AttendanceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/impl/AttendanceDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/impl/AttendanceDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceInfoDao/impl/AttendanceInfoDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceInfoDao/impl/AttendanceInfoDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V001__initial_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V001__initial_schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V002__insert_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V002__insert_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/attendance-server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/attendance-server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/attendance-server-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/attendance-server-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/db/migration/V001__initial_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/db/migration/V001__initial_schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/controller/AttendanceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/impl/AttendanceDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq$AttendanceInfoReqBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq$AttendanceInfoReqBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse$AttendanceResponseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse$AttendanceResponseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapperImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/model/tables/AttendanceInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/model/tables/AttendanceInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/model/tables/pojos/AttendanceInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/model/tables/pojos/AttendanceInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/model/tables/records/AttendanceInfoRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/model/tables/records/AttendanceInfoRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/service/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/service/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/generated-sources/annotations/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/generated-sources/annotations/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/AttendanceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/AttendanceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/pojos/AttendanceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/pojos/AttendanceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/records/AttendanceInfoRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/records/AttendanceInfoRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attendance-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/attendance-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/target/classes/db/migration/V001__initial_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/target/classes/db/migration/V001__initial_schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authentication-server/target/classes/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/authentication-server/target/classes/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO$ChatMessageDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO$ChatMessageDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dto/ChatMessageMapperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/dto/ChatMessageMapperImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/service/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/service/Service.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/service/ServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/classes/ro/ubbcluj/cs/ams/chat/service/ServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/generated-sources/annotations/ro/ubbcluj/cs/ams/chat/dto/ChatMessageMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/generated-sources/annotations/ro/ubbcluj/cs/ams/chat/dto/ChatMessageMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chat-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -90,36 +97,6 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="ams-attendance@localhost" type="feb32156:DbDataSourceImpl" />
         <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ams-attendance@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="ams-attendance: database" type="6d9b600a:PostgresImplModel$Database" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ams-attendance@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="ams-attendance: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ams-attendance@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="ams-attendance: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ams-attendance@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="ams-attendance: database" type="6d9b600a:PostgresImplModel$Database" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="public: schema" type="a16502c0:PostgresImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
@@ -206,72 +183,73 @@
     <session id="-1846299856">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="activity" value="3" />
-          <entry key="attendance" value="6" />
-          <entry key="attendance_info" value="9" />
-          <entry key="chat_message" value="6" />
+          <entry key="activity" value="6" />
+          <entry key="attendance" value="15" />
+          <entry key="attendance_info" value="15" />
+          <entry key="chat_message" value="7" />
           <entry key="chat_user" value="2" />
-          <entry key="class" value="16" />
+          <entry key="class" value="23" />
           <entry key="conversation" value="2" />
           <entry key="flyway_schema_history" value="5" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="509" />
-          <entry key="oauth_access_token" value="4" />
+          <entry key="java" value="573" />
+          <entry key="oauth_access_token" value="5" />
           <entry key="oauth_approvals" value="4" />
           <entry key="oauth_client_details" value="4" />
           <entry key="oauth_client_token" value="4" />
           <entry key="oauth_code" value="2" />
-          <entry key="oauth_refresh_token" value="4" />
+          <entry key="oauth_refresh_token" value="5" />
           <entry key="oauth_user" value="17" />
           <entry key="permission" value="2" />
           <entry key="permission_role" value="2" />
-          <entry key="reviews" value="13" />
+          <entry key="reviews" value="15" />
           <entry key="role" value="2" />
           <entry key="role_user" value="1" />
           <entry key="specialization" value="4" />
-          <entry key="sql" value="48" />
+          <entry key="sql" value="53" />
           <entry key="subject" value="4" />
           <entry key="user_keyphrase" value="7" />
           <entry key="xml" value="26" />
-          <entry key="yml" value="54" />
+          <entry key="yml" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="16" />
-          <entry key="Database Element" value="107" />
-          <entry key="JAVA" value="509" />
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="SQL" value="28" />
+          <entry key="CLASS" value="23" />
+          <entry key="Database Element" value="130" />
+          <entry key="JAVA" value="573" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="SQL" value="31" />
           <entry key="Scratch" value="3" />
           <entry key="XML" value="26" />
-          <entry key="YAML" value="54" />
+          <entry key="YAML" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cell" value="326" />
+          <entry key="cell" value="492" />
           <entry key="dummy" value="22" />
           <entry key="gitignore" value="2" />
-          <entry key="java" value="10247" />
-          <entry key="sql" value="969" />
+          <entry key="java" value="11783" />
+          <entry key="sql" value="1214" />
           <entry key="txt" value="32" />
           <entry key="xml" value="33" />
           <entry key="yml" value="123" />
@@ -279,10 +257,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10247" />
-          <entry key="PLAIN_TEXT" value="224" />
-          <entry key="SQL" value="801" />
-          <entry key="Scratch" value="326" />
+          <entry key="JAVA" value="11783" />
+          <entry key="PLAIN_TEXT" value="247" />
+          <entry key="SQL" value="1023" />
+          <entry key="Scratch" value="492" />
           <entry key="XML" value="33" />
           <entry key="YAML" value="123" />
         </counts>
@@ -292,91 +270,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java">
+        <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="137" column="29" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="29" />
+            <state relative-caret-position="209">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/controller/AttendanceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="135" column="174" selection-start-line="135" selection-start-column="174" selection-end-line="135" selection-end-column="174" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://0b856468-29ec-4c6a-9dfa-d52ab7e02d13/database/ams-attendance/schema/public/table/activity">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceRequestForView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" column="110" selection-start-line="14" selection-start-column="110" selection-end-line="14" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponseForView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="121" column="139" selection-start-line="121" selection-start-column="139" selection-end-line="121" selection-end-column="139" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_refresh_token">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+              <column-attributes>
+                <column name="ctid" enabled="false" />
+              </column-attributes>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_access_token">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+              <column-attributes>
+                <column name="ctid" enabled="false" />
+              </column-attributes>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/AuthConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.4.0.RELEASE/spring-security-oauth2-2.4.0.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/TokenStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-293">
-              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dto/ProfessorResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/service/exception/ChatServiceException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ChatConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
+        <entry file="das://b0eeae35-ff3d-4522-908b-36e3ed17eb15/database/ams-chat/schema/public/table/chat_message">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ResourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -406,24 +390,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/model/Review.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/mappers/ReviewMapper.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/ReviewsConfig.java" />
-        <option value="$PROJECT_DIR$/authentication-server/pom.xml" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/ReviewDao.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/impl/ReviewDaoImpl.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ReviewMapper.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ReviewService.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewRequest.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewResponse.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/config-server/src/main/resources/shared/gateway-service.yml" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/UserDetailsServiceImpl.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserDetailsRepository.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserJpaRepository.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserDao.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/repository/UserDaoJpa.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/model/User.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/model/AuthUserDetail.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserKeyphraseResponse.java" />
@@ -432,7 +402,6 @@
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthExceptionType.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/ReviewAddedDto.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java" />
-        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/ReviewExceptionType.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dto/UserResponse.java" />
         <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java" />
@@ -457,6 +426,21 @@
         <option value="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V002__insert_data.sql" />
         <option value="$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDaoImpl.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql" />
+        <option value="$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapper.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V001__initial_schema.sql" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceInfoDao/impl/AttendanceInfoDaoImpl.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponseForView.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V002__insert_data.sql" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/impl/AttendanceDaoImpl.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/Service.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceRequestForView.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/controller/AttendanceController.java" />
+        <option value="$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.java" />
       </list>
     </option>
   </component>
@@ -483,10 +467,10 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="978" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -494,6 +478,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -501,11 +486,306 @@
               <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
               <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="attendanceDao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="attendanceDao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="attendanceInfoDao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="attendance-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="migration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="review" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="review" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thesis_service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thesis_service" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="migration" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -517,7 +797,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Eu/Incercari_Licenta/servere-licenta/thesis_service/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590092577667" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590436472636" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -559,7 +839,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GatewayServiceApplication">
+  <component name="RunManager" selected="Spring Boot.AttendanceServerApplication">
     <configuration name="AttendanceServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="attendance-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ro.ubbcluj.cs.ams.attendance.AttendanceServerApplication" />
@@ -654,18 +934,20 @@
       <workItem from="1590048041126" duration="14000" />
       <workItem from="1590050502888" duration="15940000" />
       <workItem from="1590136241925" duration="25000" />
-      <workItem from="1590222118390" duration="7415000" />
+      <workItem from="1590222118390" duration="10454000" />
+      <workItem from="1590310059413" duration="12242000" />
+      <workItem from="1590394547377" duration="10497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140723000" />
+    <option name="totallyTimeSpent" value="166501000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="795" y="0" width="815" height="868" extended-state="0" />
+    <frame x="-8" y="-8" width="1618" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2966208" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2659176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -675,19 +957,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875155" weight="0.40339425" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993758" weight="0.42558748" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875155" weight="0.32898173" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993758" weight="0.30548304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993758" visible="true" weight="0.34081903" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993758" weight="0.3368146" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012484" side_tool="true" weight="0.42950392" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4993758" weight="0.32898173" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4993758" weight="0.27415144" />
       <window_info anchor="bottom" id="Database Console" order="15" weight="0.32898173" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -695,13 +977,13 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.16354556" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.3554443" />
+      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.20661673" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18726592" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2659176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -711,13 +993,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32898173" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875155" weight="0.42689294" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993758" weight="0.3537859" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49875155" visible="true" weight="0.3093995" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993758" weight="0.30548304" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4993758" visible="true" weight="0.42428198" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993758" weight="0.3368146" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012484" side_tool="true" weight="0.42950392" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -731,7 +1013,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.16354556" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.19662921" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.12172285" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
@@ -762,335 +1044,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_approvals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_code">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_refresh_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_refresh_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_client_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_refresh_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_approvals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_approvals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/flyway_schema_history">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_approvals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_access_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_access_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_access_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://0b856468-29ec-4c6a-9dfa-d52ab7e02d13/database/ams-attendance/schema/public/table/attendance">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_code">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://0b856468-29ec-4c6a-9dfa-d52ab7e02d13/database/ams-attendance/schema/public/table/flyway_schema_history">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://0b856468-29ec-4c6a-9dfa-d52ab7e02d13/database/ams-attendance/schema/public/table/attendance_info">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_refresh_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/config/GatewayProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/exception/ApiResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V002__insert_data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="210" selection-start-line="20" selection-start-column="210" selection-end-line="20" selection-end-column="210" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.2.4.RELEASE/spring-tx-5.2.4.RELEASE-sources.jar!/org/springframework/dao/support/DataAccessUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="99" selection-start-line="99" selection-end-line="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/exception/AuthEntryPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/5.2.4.RELEASE/spring-jdbc-5.2.4.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="790" selection-start-line="790" selection-end-line="790" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/GatewayServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/exception/AuthAccessDeniedHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_refresh_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_approvals">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_client_details">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_client_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/permission">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/user_keyphrase">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/ro/ubbcluj/cs/ams/gateway/config/GatewayConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/shared/authentication-server.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/shared/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="76" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_access_token">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-          <column-attributes>
-            <column name="ctid" enabled="false" />
-          </column-attributes>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.sql/javax/sql/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="84" column="7" lean-forward="true" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/config/AuthorizationServerConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.4.0.RELEASE/spring-security-oauth2-2.4.0.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/TokenStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dao/ChatMessageDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/dto/ChatMessageDTO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1112,17 +1065,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ChatConfig.java">
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="1957">
+          <caret line="137" column="29" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ResourceConfig.java">
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/ServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="95">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V003__new_data.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/resources/db/migration/V001__initial_schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="107" column="50" selection-start-line="107" selection-start-column="50" selection-end-line="107" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/reviews">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1133,17 +1110,291 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/controller/AuthController.java">
+    <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ChatConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="137" column="29" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="29" />
+        <state relative-caret-position="114">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/chat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ResourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/ReviewDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/auth/model/tables/records/OauthUserRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.sql/java/sql/Timestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/target/classes/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/StudentAttendanceResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/target/generated-sources/annotations/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapperImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/records/AttendanceRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/target/classes/ro/ubbcluj/cs/ams/attendance/dto/SubjectMapperImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="95" column="33" selection-start-line="95" selection-start-column="33" selection-end-line="95" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/review/impl/ReviewDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/dao/user/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="87" column="70" selection-start-line="84" selection-start-column="43" selection-end-line="87" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V001__initial_schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/pojos/Attendance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/exception/AttendanceExceptionType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/exception/AttendanceServiceException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/activityDao/ActivityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/target/generated-sources/jooq/ro/ubbcluj/cs/ams/attendance/model/tables/pojos/AttendanceInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoReq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceInfoResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/activityDao/impl/ActivityDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceInfoDao/impl/AttendanceInfoDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="13" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/resources/db/migration/V002__insert_data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0b856468-29ec-4c6a-9dfa-d52ab7e02d13/database/ams-attendance/schema/public/table/attendance">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0b856468-29ec-4c6a-9dfa-d52ab7e02d13/database/ams-attendance/schema/public/table/attendance_info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/impl/AttendanceDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="84" column="115" selection-start-line="84" selection-start-column="96" selection-end-line="84" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dao/attendanceDao/AttendanceDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceRequestForView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponseForView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/controller/AttendanceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="135" column="174" selection-start-line="135" selection-start-column="174" selection-end-line="135" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://0b856468-29ec-4c6a-9dfa-d52ab7e02d13/database/ams-attendance/schema/public/table/activity">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="110" selection-start-line="14" selection-start-column="110" selection-end-line="14" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/service/impl/AttendanceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="121" column="139" selection-start-line="121" selection-start-column="139" selection-end-line="121" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_refresh_token">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="ctid" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b43a6c78-1fa7-4c5a-971f-0a63ad2db3b6/database/ams-oauth2/schema/public/table/oauth_access_token">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="ctid" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b0eeae35-ff3d-4522-908b-36e3ed17eb15/database/ams-chat/schema/public/table/chat_message">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>

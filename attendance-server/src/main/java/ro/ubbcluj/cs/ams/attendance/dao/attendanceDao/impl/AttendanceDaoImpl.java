@@ -3,10 +3,13 @@ package ro.ubbcluj.cs.ams.attendance.dao.attendanceDao.impl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.jooq.DSLContext;
+import org.jooq.Record;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import ro.ubbcluj.cs.ams.attendance.dao.attendanceDao.AttendanceDao;
 import ro.ubbcluj.cs.ams.attendance.dao.attendanceInfoDao.impl.AttendanceInfoDaoImpl;
+import ro.ubbcluj.cs.ams.attendance.dto.AttendanceResponse;
+import ro.ubbcluj.cs.ams.attendance.dto.AttendanceResponseForView;
 import ro.ubbcluj.cs.ams.attendance.model.Tables;
 import ro.ubbcluj.cs.ams.attendance.model.tables.pojos.Attendance;
 import ro.ubbcluj.cs.ams.attendance.model.tables.pojos.AttendanceInfo;
@@ -14,6 +17,8 @@ import ro.ubbcluj.cs.ams.attendance.model.tables.records.ActivityRecord;
 import ro.ubbcluj.cs.ams.attendance.model.tables.records.AttendanceInfoRecord;
 import ro.ubbcluj.cs.ams.attendance.model.tables.records.AttendanceRecord;
 import ro.ubbcluj.cs.ams.attendance.model.tables.records.SubjectRecord;
+
+import java.util.List;
 
 
 @Component
@@ -61,4 +66,33 @@ public class AttendanceDaoImpl implements AttendanceDao {
 
         return activityRecord.component2();
     }
+
+    @Override
+    public List<AttendanceResponse> getAllAttendances() {
+        logger.info("+++++++++++ GET all attendances:++++++++++++++++");
+
+        List<AttendanceResponse> attendanceRecords = dsl.select()
+                .from(Tables.ATTENDANCE)
+                .join(Tables.ATTENDANCE_INFO).on(Tables.ATTENDANCE.ATTENDANCE_INFO_ID.eq(Tables.ATTENDANCE_INFO.ID))
+                .join(Tables.SUBJECT).on(Tables.ATTENDANCE_INFO.COURSE_ID.eq(Tables.SUBJECT.ID))
+                .join(Tables.ACTIVITY).on(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(Tables.ACTIVITY.ID))
+                .fetchInto(AttendanceResponse.class);
+
+        return attendanceRecords;
+    }
+
+    @Override
+    public List<AttendanceResponseForView> getAllAttendancesForCourseAndWeek(Integer course_id, Integer activity_id, Integer week) {
+        List<AttendanceResponseForView> attendanceResponses = dsl.select()
+                .from(Tables.ATTENDANCE)
+                .join(Tables.ATTENDANCE_INFO).on(Tables.ATTENDANCE.ATTENDANCE_INFO_ID.eq(Tables.ATTENDANCE_INFO.ID))
+                .join(Tables.SUBJECT).on(Tables.ATTENDANCE_INFO.COURSE_ID.eq(Tables.SUBJECT.ID))
+                .join(Tables.ACTIVITY).on(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(Tables.ACTIVITY.ID))
+                .where(Tables.ATTENDANCE_INFO.WEEK.eq(week).and(Tables.SUBJECT.ID.eq(course_id)).and(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(activity_id)))
+                .fetchInto(AttendanceResponseForView.class);
+
+        return attendanceResponses;
+    }
+
+
 }

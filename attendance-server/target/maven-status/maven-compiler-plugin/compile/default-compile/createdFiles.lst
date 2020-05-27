@@ -5,6 +5,7 @@ ro\ubbcluj\cs\ams\attendance\model\tables\pojos\Specialization.class
 ro\ubbcluj\cs\ams\attendance\dto\AttendanceInfoResponse$AttendanceInfoResponseBuilder.class
 ro\ubbcluj\cs\ams\attendance\dto\SubjectResponse$SubjectResponseBuilder.class
 ro\ubbcluj\cs\ams\attendance\dto\SubjectResponse.class
+ro\ubbcluj\cs\ams\attendance\dto\ActivityResponse.class
 ro\ubbcluj\cs\ams\attendance\model\tables\records\AttendanceInfoRecord.class
 ro\ubbcluj\cs\ams\attendance\dto\AttendanceRequest.class
 ro\ubbcluj\cs\ams\attendance\dto\AttendanceResponse.class
@@ -22,6 +23,7 @@ ro\ubbcluj\cs\ams\attendance\model\tables\pojos\FlywaySchemaHistory.class
 ro\ubbcluj\cs\ams\attendance\model\tables\records\AttendanceRecord.class
 ro\ubbcluj\cs\ams\attendance\service\exception\AttendanceServiceException.class
 ro\ubbcluj\cs\ams\attendance\dao\attendanceInfoDao\impl\AttendanceInfoDaoImpl.class
+ro\ubbcluj\cs\ams\attendance\dto\ActivityResponse$ActivityResponseBuilder.class
 ro\ubbcluj\cs\ams\attendance\model\tables\pojos\Subject.class
 ro\ubbcluj\cs\ams\attendance\config\AttendanceConfig.class
 ro\ubbcluj\cs\ams\attendance\dto\AttendanceInfoReq$AttendanceInfoReqBuilder.class
@@ -33,6 +35,7 @@ ro\ubbcluj\cs\ams\attendance\model\tables\records\SpecializationRecord.class
 ro\ubbcluj\cs\ams\attendance\model\Keys$ForeignKeys0.class
 ro\ubbcluj\cs\ams\attendance\dto\StudentAttendanceResponse.class
 ro\ubbcluj\cs\ams\attendance\config\ResourceConfig.class
+ro\ubbcluj\cs\ams\attendance\dao\activityDao\ActivityDao.class
 ro\ubbcluj\cs\ams\attendance\model\Keys.class
 ro\ubbcluj\cs\ams\attendance\dto\AttendanceInfoResponse.class
 ro\ubbcluj\cs\ams\attendance\dto\AttendanceResponse$AttendanceResponseBuilder.class
@@ -44,6 +47,7 @@ ro\ubbcluj\cs\ams\attendance\dao\subjectDao\impl\SubjectDaoImpl.class
 ro\ubbcluj\cs\ams\attendance\model\Tables.class
 ro\ubbcluj\cs\ams\attendance\dao\attendanceInfoDao\AttendanceInfoDao.class
 ro\ubbcluj\cs\ams\attendance\dto\SubjectMapperImpl.class
+ro\ubbcluj\cs\ams\attendance\dao\activityDao\impl\ActivityDaoImpl.class
 ro\ubbcluj\cs\ams\attendance\dto\AttendanceInfoReq.class
 ro\ubbcluj\cs\ams\attendance\model\Indexes.class
 ro\ubbcluj\cs\ams\attendance\model\tables\FlywaySchemaHistory.class

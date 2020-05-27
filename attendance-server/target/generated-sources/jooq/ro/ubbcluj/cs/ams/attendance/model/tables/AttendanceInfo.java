@@ -13,7 +13,7 @@ import org.jooq.ForeignKey;
 import org.jooq.Identity;
 import org.jooq.Name;
 import org.jooq.Record;
-import org.jooq.Row6;
+import org.jooq.Row7;
 import org.jooq.Schema;
 import org.jooq.Table;
 import org.jooq.TableField;
@@ -33,7 +33,7 @@ import ro.ubbcluj.cs.ams.attendance.model.tables.records.AttendanceInfoRecord;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class AttendanceInfo extends TableImpl<AttendanceInfoRecord> {
 
-    private static final long serialVersionUID = -1723665659;
+    private static final long serialVersionUID = 691533908;
 
     /**
      * The reference instance of <code>public.attendance_info</code>
@@ -67,6 +67,11 @@ public class AttendanceInfo extends TableImpl<AttendanceInfoRecord> {
      * The column <code>public.attendance_info.professor_id</code>.
      */
     public final TableField<AttendanceInfoRecord, String> PROFESSOR_ID = createField(DSL.name("professor_id"), org.jooq.impl.SQLDataType.VARCHAR(128), this, "");
+
+    /**
+     * The column <code>public.attendance_info.week</code>.
+     */
+    public final TableField<AttendanceInfoRecord, Integer> WEEK = createField(DSL.name("week"), org.jooq.impl.SQLDataType.INTEGER, this, "");
 
     /**
      * The column <code>public.attendance_info.created_at</code>.
@@ -171,11 +176,11 @@ public class AttendanceInfo extends TableImpl<AttendanceInfoRecord> {
     }
 
     // -------------------------------------------------------------------------
-    // Row6 type methods
+    // Row7 type methods
     // -------------------------------------------------------------------------
 
     @Override
-    public Row6<Integer, Integer, Integer, String, LocalDateTime, Integer> fieldsRow() {
-        return (Row6) super.fieldsRow();
+    public Row7<Integer, Integer, Integer, String, Integer, LocalDateTime, Integer> fieldsRow() {
+        return (Row7) super.fieldsRow();
     }
 }

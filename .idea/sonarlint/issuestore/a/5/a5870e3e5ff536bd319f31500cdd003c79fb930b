@@ -1,10 +1,14 @@
 
-T
-java:S1135]"2Complete the task associated to this TODO comment.(®Ìš¹ùÿÿÿÿ8Þ¢×Ì .
-s	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ìÿ‹ýÿÿÿÿ8ÉïíÎ .
-n	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­îÜæ8¿õ÷¨ .
-V
-java:S1481["4Remove this unused "attendanceAdded" local variable.(«°Äùøÿÿÿÿ8Þ¢×Ì .
+m	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÇÊž8ô´¤Ý¤.
+n	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­îÜæ8¿õ÷¨ .
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‡Íì8Þ¢×Ì .
 e
-java:S1854["CRemove this useless assignment to local variable "attendanceAdded".(«°Äùøÿÿÿÿ8Þ¢×Ì .
-m	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶‡Íì8Þ¢×Ì .
+java:S1854\"CRemove this useless assignment to local variable "attendanceAdded".(«°Äùøÿÿÿÿ8Þ¢×Ì .
+m	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÇÊž8¯ô“Ù¤.
+V
+java:S1481\"4Remove this unused "attendanceAdded" local variable.(«°Äùøÿÿÿÿ8Þ¢×Ì .
+T
+java:S1135^"2Complete the task associated to this TODO comment.(®Ìš¹ùÿÿÿÿ8Þ¢×Ì .
+s	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ìÿ‹ýÿÿÿÿ8ÉïíÎ .
+Y
+java:S2629z"7Use the built-in formatting to construct this argument.(À’ãðþÿÿÿÿ8ºªøÝ¤.

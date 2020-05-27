@@ -105,6 +105,7 @@ create table reviews (
   feedback TEXT,
   review_grade real,
   constraint pk_reviews primary key(id),
+  constraint uk_grade unique (professor, student),
   constraint fk1_review_professor foreign key (professor) references oauth_user(username),
   constraint fk1_review_student foreign key (student) references oauth_user(username)
 )

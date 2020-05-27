@@ -103,6 +103,44 @@ public class AttendanceController {
 
     }
 
+    @ApiOperation(value = "Get all attendances")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = AttendanceExceptionType.class),
+            @ApiResponse(code = 400, message = "ERROR", response = AttendanceExceptionType.class),
+    })
+    @RequestMapping(value = "/attendances", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<List<AttendanceResponse>> getAllAttendances(Principal principal) {
+
+        logger.info("+++++++++ LOGGING getAllAttendances+++++++++");
+
+        logger.info(principal.getName());
+        List<AttendanceResponse> attendanceResponses = service.getAllAttendances();
+        logger.info("+++++++++SUCCESSFUL LOGGING getAllAttendances+++++++++");
+
+        return new ResponseEntity<>(attendanceResponses, HttpStatus.OK);
+
+
+    }
+
+    @ApiOperation(value = "Get all attendances for course and week")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = AttendanceExceptionType.class),
+            @ApiResponse(code = 400, message = "ERROR", response = AttendanceExceptionType.class),
+    })
+    @RequestMapping(value = "/view", method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<List<AttendanceResponseForView>> getAllAttendancesForCourseAndWeek(Principal principal, @RequestBody @Valid AttendanceRequestForView attendanceRequest, BindingResult result) {
+
+        logger.info("+++++++++ LOGGING getAllAttendances for course and week+++++++++");
+
+        logger.info(principal.getName());
+        List<AttendanceResponseForView> attendanceResponses = service.getAllAttendancesForCourseAndWeek(attendanceRequest.getCourse_id(), attendanceRequest.getActivity_id(), attendanceRequest.getWeek());
+        logger.info("+++++++++SUCCESSFUL LOGGING getAllAttendances for course and week+++++++++");
+
+        return new ResponseEntity<>(attendanceResponses, HttpStatus.OK);
+
+
+    }
+
 
     @ExceptionHandler({AttendanceServiceException.class})
     @ResponseBody

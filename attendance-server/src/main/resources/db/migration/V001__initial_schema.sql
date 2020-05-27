@@ -27,6 +27,7 @@ create table attendance_info (
   course_id int,
   activity_id int,
   professor_id varchar(128),
+  week int,
   created_at timestamp,
   remaining_time int, --minutes
   constraint pk_attendance_info primary key (id),

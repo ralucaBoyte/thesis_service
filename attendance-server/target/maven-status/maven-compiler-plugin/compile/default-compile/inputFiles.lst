@@ -1,11 +1,13 @@
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\tables\records\SubjectRecord.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\tables\pojos\AttendanceInfo.java
+D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dao\activityDao\impl\ActivityDaoImpl.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\tables\pojos\FlywaySchemaHistory.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\tables\records\ActivityRecord.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\tables\Subject.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dao\attendanceDao\impl\AttendanceDaoImpl.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\service\impl\AttendanceService.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\Public.java
+D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dto\ActivityResponse.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dto\AttendanceResponse.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dto\StudentAttendanceResponse.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\config\AttendanceConfig.java
@@ -26,6 +28,7 @@ D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dao\attendanceInfoDao\AttendanceInfoDao.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\tables\FlywaySchemaHistory.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\DefaultCatalog.java
+D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dao\activityDao\ActivityDao.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\Sequences.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\target\generated-sources\jooq\ro\ubbcluj\cs\ams\attendance\model\tables\AttendanceInfo.java
 D:\Eu\Incercari_Licenta\servere-licenta\thesis_service\attendance-server\src\main\java\ro\ubbcluj\cs\ams\attendance\dto\AttendanceRequest.java

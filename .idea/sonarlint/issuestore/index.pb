@@ -183,3 +183,14 @@ Vchat-service/src/main/java/ro/ubbcluj/cs/ams/chat/service/exception/ChatExcepti
 Rchat-service/src/main/java/ro/ubbcluj/cs/ams/chat/controller/MicroserviceCall.java,c\a\caa29fb6b638e84277a2bb649c612aeb6872dc66
 }
 Mchat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/WebSocketConfig.java,2\b\2b372841f47fa17f848985d5baecf76849fd184e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+x
+Hchat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ChatConfig.java,6\3\636a42131eacfd27450e4020a6aebe404b2daa7f
+|
+Lchat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ResourceConfig.java,5\8\582418f53fb814dc050794a48210e28faecf5477
+é
+^attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceRequestForView.java,4\0\40b2841e183653433b30bebd74917818ee06b2ba
+è
+_attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponseForView.java,5\7\575253abe28dfb19cebfb7e35a3c96fe965f4891

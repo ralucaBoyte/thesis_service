@@ -25,8 +25,8 @@ public class AttendanceInfoDaoImpl implements AttendanceInfoDao {
 
         logger.info("++++++++ Before insert action for attendance info " + attendanceInfo.toString() + " +++++++++++");
 
-        Record1<Integer> attendance_info_id = dsl.insertInto(Tables.ATTENDANCE_INFO, Tables.ATTENDANCE_INFO.COURSE_ID, Tables.ATTENDANCE_INFO.ACTIVITY_ID, Tables.ATTENDANCE_INFO.PROFESSOR_ID, Tables.ATTENDANCE_INFO.CREATED_AT, Tables.ATTENDANCE_INFO.REMAINING_TIME)
-                .values(attendanceInfo.getCourseId(), attendanceInfo.getActivityId(), attendanceInfo.getProfessorId(), attendanceInfo.getCreatedAt(), attendanceInfo.getRemainingTime())
+        Record1<Integer> attendance_info_id = dsl.insertInto(Tables.ATTENDANCE_INFO, Tables.ATTENDANCE_INFO.COURSE_ID, Tables.ATTENDANCE_INFO.ACTIVITY_ID, Tables.ATTENDANCE_INFO.PROFESSOR_ID, Tables.ATTENDANCE_INFO.WEEK, Tables.ATTENDANCE_INFO.CREATED_AT, Tables.ATTENDANCE_INFO.REMAINING_TIME)
+                .values(attendanceInfo.getCourseId(), attendanceInfo.getActivityId(), attendanceInfo.getProfessorId(), attendanceInfo.getWeek(), attendanceInfo.getCreatedAt(), attendanceInfo.getRemainingTime())
                 .returningResult(Tables.ATTENDANCE_INFO.ID)
                 .fetchOne();
 

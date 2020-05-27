@@ -3,6 +3,7 @@ package ro.ubbcluj.cs.ams.auth.dao.review.impl;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.jooq.DSLContext;
+import org.postgresql.util.PSQLException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import ro.ubbcluj.cs.ams.auth.dao.review.ReviewDao;
@@ -34,11 +35,17 @@ public class ReviewDaoImpl implements ReviewDao {
     public Integer addReviewForTeacher(ReviewAddedDto reviewAddedDto, String student) {
         logger.info("++++++++++++ADD REVIEWW FOR PROFESSOR +++++++");
 
-        Integer addReview = dsl.insertInto(Tables.REVIEWS, Tables.REVIEWS.PROFESSOR,
-                Tables.REVIEWS.STUDENT, Tables.REVIEWS.FEEDBACK, Tables.REVIEWS.REVIEW_GRADE)
-                .values(reviewAddedDto.getProfessor(), student, reviewAddedDto.getFeedback(), reviewAddedDto.getReviewGrade())
-                .execute();
-        return addReview;
+        try {
+            Integer addReview = dsl.insertInto(Tables.REVIEWS, Tables.REVIEWS.PROFESSOR,
+                    Tables.REVIEWS.STUDENT, Tables.REVIEWS.FEEDBACK, Tables.REVIEWS.REVIEW_GRADE)
+                    .values(reviewAddedDto.getProfessor(), student, reviewAddedDto.getFeedback(), reviewAddedDto.getReviewGrade())
+                    .execute();
+            return addReview;
+        }
+        catch (Exception ex){
+            logger.info(ex.getMessage());
+            return 0;
+        }
     }
 
 }

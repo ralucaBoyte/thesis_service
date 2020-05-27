@@ -3,6 +3,7 @@ package ro.ubbcluj.cs.ams.attendance.service.impl;
 import org.apache.commons.lang.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.jooq.Record;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
@@ -60,7 +61,7 @@ public class AttendanceService implements Service {
         logger.info("+++++++++ addAttendanceInfo in service +++++++");
 
         LocalDateTime createdAt = LocalDateTime.ofInstant(instantProvider.get(), ZoneId.systemDefault());
-        AttendanceInfo attendanceInfo = new AttendanceInfo(Integer.parseInt("0"), attendanceInfoReq.getCourseId(), attendanceInfoReq.getActivityId(), username, createdAt, attendanceInfoReq.getRemainingTime());
+        AttendanceInfo attendanceInfo = new AttendanceInfo(Integer.parseInt("0"), attendanceInfoReq.getCourseId(), attendanceInfoReq.getActivityId(), username, attendanceInfoReq.getWeek(), createdAt, attendanceInfoReq.getRemainingTime());
         Integer attendanceInfo_id = attendanceInfoDao.addAttendanceInfo(attendanceInfo);
 
         String barcode = this.generateBarcode(attendanceInfo_id);
@@ -105,6 +106,24 @@ public class AttendanceService implements Service {
                 .activity(activityType)
                 .build();
         return studentAttendanceResponse;
+    }
+
+    @Override
+    public List<AttendanceResponse> getAllAttendances() {
+        logger.info("+++++++++ find all attendances in service +++++++");
+
+        List<AttendanceResponse> attendances = attendanceDao.getAllAttendances();
+
+        return attendances;
+    }
+
+    @Override
+    public List<AttendanceResponseForView> getAllAttendancesForCourseAndWeek(Integer course_id, Integer activity_id, Integer week) {
+        logger.info("+++++++++ find all attendances for course " + course_id + " at activity " + activity_id + " during week " + week  + " in service +++++++");
+
+        List<AttendanceResponseForView> attendances = attendanceDao.getAllAttendancesForCourseAndWeek(course_id, activity_id, week);
+
+        return attendances;
     }
 
     @Override

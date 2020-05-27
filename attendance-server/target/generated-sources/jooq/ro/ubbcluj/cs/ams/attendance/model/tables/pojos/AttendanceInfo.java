@@ -14,12 +14,13 @@ import java.time.LocalDateTime;
 @SuppressWarnings({ "all", "unchecked", "rawtypes" })
 public class AttendanceInfo implements Serializable {
 
-    private static final long serialVersionUID = 389085135;
+    private static final long serialVersionUID = 1098089057;
 
     private Integer       id;
     private Integer       courseId;
     private Integer       activityId;
     private String        professorId;
+    private Integer       week;
     private LocalDateTime createdAt;
     private Integer       remainingTime;
 
@@ -30,6 +31,7 @@ public class AttendanceInfo implements Serializable {
         this.courseId = value.courseId;
         this.activityId = value.activityId;
         this.professorId = value.professorId;
+        this.week = value.week;
         this.createdAt = value.createdAt;
         this.remainingTime = value.remainingTime;
     }
@@ -39,6 +41,7 @@ public class AttendanceInfo implements Serializable {
         Integer       courseId,
         Integer       activityId,
         String        professorId,
+        Integer       week,
         LocalDateTime createdAt,
         Integer       remainingTime
     ) {
@@ -46,6 +49,7 @@ public class AttendanceInfo implements Serializable {
         this.courseId = courseId;
         this.activityId = activityId;
         this.professorId = professorId;
+        this.week = week;
         this.createdAt = createdAt;
         this.remainingTime = remainingTime;
     }
@@ -82,6 +86,14 @@ public class AttendanceInfo implements Serializable {
         this.professorId = professorId;
     }
 
+    public Integer getWeek() {
+        return this.week;
+    }
+
+    public void setWeek(Integer week) {
+        this.week = week;
+    }
+
     public LocalDateTime getCreatedAt() {
         return this.createdAt;
     }
@@ -106,6 +118,7 @@ public class AttendanceInfo implements Serializable {
         sb.append(", ").append(courseId);
         sb.append(", ").append(activityId);
         sb.append(", ").append(professorId);
+        sb.append(", ").append(week);
         sb.append(", ").append(createdAt);
         sb.append(", ").append(remainingTime);
 
