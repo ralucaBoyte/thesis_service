@@ -13,6 +13,7 @@ public interface Service {
 
     List<AttendanceResponse> getAllAttendances();
     List<AttendanceResponseForView> getAllAttendancesForCourseAndWeek(Integer course_id, Integer activity_id, Integer week);
+    List<AttendanceResponseForStudent> getAllAttendancesForStudent(String student);
 
     List<SubjectResponse> findAllSubjects();
     List<ActivityResponse> findAllActivities();

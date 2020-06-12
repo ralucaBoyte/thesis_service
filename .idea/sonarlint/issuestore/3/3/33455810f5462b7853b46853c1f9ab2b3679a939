@@ -1,13 +1,13 @@
 
-a
-java:S18740"FRemove this use of "ClientDetailsServiceConfigurer"; it is deprecated.(è¡ïéùÿÿÿÿ
-H
-java:S1874"2Remove this use of "TokenStore"; it is deprecated.(Ú¹£Ê
-W
-java:S1874"ARemove this use of "EnableAuthorizationServer"; it is deprecated.(ÀÝ„ë
 b
 java:S1874"LRemove this use of "AuthorizationServerConfigurerAdapter"; it is deprecated.(¡õÅý
 h
 java:S1874&"MRemove this use of "AuthorizationServerSecurityConfigurer"; it is deprecated.(³¬…£ÿÿÿÿÿ
+a
+java:S18740"FRemove this use of "ClientDetailsServiceConfigurer"; it is deprecated.(è¡ïéùÿÿÿÿ
+W
+java:S1874"ARemove this use of "EnableAuthorizationServer"; it is deprecated.(ÀÝ„ë
 d
 java:S18748"NRemove this use of "AuthorizationServerEndpointsConfigurer"; it is deprecated.(Û£òÊ
+H
+java:S1874"2Remove this use of "TokenStore"; it is deprecated.(Ú¹£Ê

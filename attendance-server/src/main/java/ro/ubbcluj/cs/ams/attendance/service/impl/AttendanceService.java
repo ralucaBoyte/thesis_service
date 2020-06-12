@@ -127,6 +127,15 @@ public class AttendanceService implements Service {
     }
 
     @Override
+    public List<AttendanceResponseForStudent> getAllAttendancesForStudent(String student) {
+        logger.info("+++++++++ find all attendances for student " + student);
+
+        List<AttendanceResponseForStudent> attendances = attendanceDao.getAllAttendancesForStudent(student);
+
+        return attendances;
+    }
+
+    @Override
     public List<SubjectResponse> findAllSubjects() {
         logger.info("+++++++++ find all subjects in service +++++++");
 

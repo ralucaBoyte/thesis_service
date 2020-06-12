@@ -22,28 +22,6 @@ public class ChatController {
     @Autowired
     Service service;
 
-    /*-------------------- Group (Public) chat--------------------
-    @MessageMapping("/sendMessage")
-    @SendTo("/topic/public")
-    public ChatMessageDTO sendMessage(@Payload ChatMessageDTO chatMessage) {
-        return chatMessage;
-    }
-
-    @MessageMapping("/addUser")
-    @SendTo("/topic/public")
-    public ChatUserDTO addUser(@Payload ChatUserDTO chatUser,
-                               SimpMessageHeaderAccessor headerAccessor) {
-        // Add user in web socket session
-
-        logger.info("+++++++++++++ NEW USER CONNECTED ++++++++++++++++++");
-        headerAccessor.getSessionAttributes().put("username", chatUser.getUsername());
-
-        logger.info(chatUser.getUsername());
-        return chatUser;
-    }*/
-
-
-    /*--------------------Private chat--------------------*/
     @Autowired
     private SimpMessagingTemplate simpMessagingTemplate;
 

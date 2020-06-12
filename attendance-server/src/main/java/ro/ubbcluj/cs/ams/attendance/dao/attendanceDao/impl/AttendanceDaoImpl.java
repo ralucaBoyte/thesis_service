@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 import ro.ubbcluj.cs.ams.attendance.dao.attendanceDao.AttendanceDao;
 import ro.ubbcluj.cs.ams.attendance.dao.attendanceInfoDao.impl.AttendanceInfoDaoImpl;
 import ro.ubbcluj.cs.ams.attendance.dto.AttendanceResponse;
+import ro.ubbcluj.cs.ams.attendance.dto.AttendanceResponseForStudent;
 import ro.ubbcluj.cs.ams.attendance.dto.AttendanceResponseForView;
 import ro.ubbcluj.cs.ams.attendance.model.Tables;
 import ro.ubbcluj.cs.ams.attendance.model.tables.pojos.Attendance;
@@ -83,13 +84,35 @@ public class AttendanceDaoImpl implements AttendanceDao {
 
     @Override
     public List<AttendanceResponseForView> getAllAttendancesForCourseAndWeek(Integer course_id, Integer activity_id, Integer week) {
+
         List<AttendanceResponseForView> attendanceResponses = dsl.select()
+            .from(Tables.ATTENDANCE)
+            .join(Tables.ATTENDANCE_INFO)
+                .on(Tables.ATTENDANCE.ATTENDANCE_INFO_ID.eq(Tables.ATTENDANCE_INFO.ID))
+            .join(Tables.SUBJECT)
+                .on(Tables.ATTENDANCE_INFO.COURSE_ID.eq(Tables.SUBJECT.ID))
+            .join(Tables.ACTIVITY)
+                .on(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(Tables.ACTIVITY.ID))
+            .where(Tables.ATTENDANCE_INFO.WEEK.eq(week).and(Tables.SUBJECT.ID.eq(course_id))
+                    .and(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(activity_id)))
+            .fetchInto(AttendanceResponseForView.class);
+
+        return attendanceResponses;
+    }
+
+    @Override
+    public List<AttendanceResponseForStudent> getAllAttendancesForStudent(String student) {
+        List<AttendanceResponseForStudent> attendanceResponses = dsl.select()
                 .from(Tables.ATTENDANCE)
-                .join(Tables.ATTENDANCE_INFO).on(Tables.ATTENDANCE.ATTENDANCE_INFO_ID.eq(Tables.ATTENDANCE_INFO.ID))
-                .join(Tables.SUBJECT).on(Tables.ATTENDANCE_INFO.COURSE_ID.eq(Tables.SUBJECT.ID))
-                .join(Tables.ACTIVITY).on(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(Tables.ACTIVITY.ID))
-                .where(Tables.ATTENDANCE_INFO.WEEK.eq(week).and(Tables.SUBJECT.ID.eq(course_id)).and(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(activity_id)))
-                .fetchInto(AttendanceResponseForView.class);
+                .join(Tables.ATTENDANCE_INFO)
+                .on(Tables.ATTENDANCE.ATTENDANCE_INFO_ID.eq(Tables.ATTENDANCE_INFO.ID))
+                .join(Tables.SUBJECT)
+                .on(Tables.ATTENDANCE_INFO.COURSE_ID.eq(Tables.SUBJECT.ID))
+                .join(Tables.ACTIVITY)
+                .on(Tables.ATTENDANCE_INFO.ACTIVITY_ID.eq(Tables.ACTIVITY.ID))
+                .where(Tables.ATTENDANCE.STUDENT_ID.eq(student))
+                .orderBy(Tables.ATTENDANCE_INFO.COURSE_ID)
+                .fetchInto(AttendanceResponseForStudent.class);
 
         return attendanceResponses;
     }

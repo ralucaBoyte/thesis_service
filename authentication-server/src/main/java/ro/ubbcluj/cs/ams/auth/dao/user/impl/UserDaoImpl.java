@@ -72,16 +72,6 @@ public class UserDaoImpl implements UserDao {
 
     @Override
     public List<OauthUserRecord> getAllProfessors() {
-//        List<Record> getProfessors = dsl.select()
-//                .from(Tables.OAUTH_USER)
-//                    .leftOuterJoin(Tables.ROLE_USER
-//                        .join(Tables.ROLE)
-//                        .on(Tables.ROLE_USER.ROLE_ID.eq(Tables.ROLE.ID))
-//                        //.where(Tables.ROLE.NAME.eq("PROFESSOR"))
-//                    )
-//                    .on(Tables.ROLE_USER.USER_ID.eq(Tables.OAUTH_USER.ID))
-//                .fetch();
-
         List<OauthUserRecord> professors = dsl.select()
                 .from(Tables.OAUTH_USER)
                 .leftOuterJoin(Tables.ROLE_USER)
@@ -91,5 +81,13 @@ public class UserDaoImpl implements UserDao {
                 .where(Tables.ROLE.NAME.eq("PROFESSOR"))
                 .fetchInto(Tables.OAUTH_USER);
         return professors;
+    }
+
+    @Override
+    public Integer checkIfKeyphraseExists(String keyphrase) {
+        Integer exists = dsl.selectFrom(Tables.USER_KEYPHRASE)
+                .where(Tables.USER_KEYPHRASE.KEYPHRASE.eq(keyphrase))
+                .fetch().size();
+        return exists;
     }
 }

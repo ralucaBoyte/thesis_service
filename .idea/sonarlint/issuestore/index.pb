@@ -194,3 +194,11 @@ Lchat-service/src/main/java/ro/ubbcluj/cs/ams/chat/config/ResourceConfig.java,5
 ^attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceRequestForView.java,4\0\40b2841e183653433b30bebd74917818ee06b2ba
 è
 _attendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponseForView.java,5\7\575253abe28dfb19cebfb7e35a3c96fe965f4891
+ô
+iauthentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/AuthenticationException.java,1\1\11d1ed91811f9827a722804367b3a5ac2162efe7
+è
+_authentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/service/exception/ErrorResponse.java,9\f\9fc68a31bd48382885c70470e81a576840dd4ce5
+Ö
+Uauthentication-server/src/main/java/ro/ubbcluj/cs/ams/auth/utils/EncryptionUtils.java,5\2\520b7257cb394ab45862f06d9e808eb682b9f83c
+í
+battendance-server/src/main/java/ro/ubbcluj/cs/ams/attendance/dto/AttendanceResponseForStudent.java,5\8\5851d85803cf7b61a586d8869f1de0821631df4e

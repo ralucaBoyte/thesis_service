@@ -1,20 +1,32 @@
 
 \
-java:S1874Š"9Remove this use of "OAuth2AccessToken"; it is deprecated.(”òêøøÿÿÿÿ8Üù¢.
-g
-java:S4488´"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‘Ñå8«Èã¿¢.
-O
-java:S1135w"2Complete the task associated to this TODO comment.(­¦¦¬8Üù¢.
+java:S1874¦"9Remove this use of "OAuth2AccessToken"; it is deprecated.(”òêøøÿÿÿÿ8Æ¬—×§.
 f
-java:S4488¡"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(èÛÊú8Üù¢.
+java:S4488½"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(èÛÊú8Æ¬—×§.
+t
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(éºôÙúÿÿÿÿ8Æ¬—×§.
+f
+java:S1128#"IRemove this unused import 'ro.ubbcluj.cs.ams.auth.utils.EncryptionUtils'.(÷öì·8”æ—Í©.
 W
-java:S1874’"9Remove this use of "OAuth2AccessToken"; it is deprecated.(Ô»”®8Üù¢.
-f
-java:S4488Ë"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯Ò±ü8¡°À¢.
-[
-java:S1874?"9Remove this use of "OAuth2AccessToken"; it is deprecated.(éºôÙúÿÿÿÿ8Á¢™¢.
+java:S1874®"9Remove this use of "OAuth2AccessToken"; it is deprecated.(Ô»”®8Æ¬—×§.
 H
 java:S1128
 ",Remove this unused import 'org.jooq.Record'.(ï¤‰y8‘Ï‚Ã¢.
+g
+java:S4488Ğ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‘Ñå8Æ¬—×§.
+d
+java:S1128$"BRemove this unused import 'ro.ubbcluj.cs.ams.auth.utils.RSAUtils'.(Ëşªñúÿÿÿÿ8”æ—Í©.
+f
+java:S4488è"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯Ò±ü8Æ¬—×§.
+W
+java:S1128)"5Remove this unused import 'java.security.PrivateKey'.(‘äÄîúÿÿÿÿ8”æ—Í©.
+|
+java:S2293ı"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ¸˜üÿÿÿÿ8òœè­©.
+[
+java:S1874I"9Remove this use of "OAuth2AccessToken"; it is deprecated.(éºôÙúÿÿÿÿ8Æ¬—×§.
+O
+java:S1135}"2Complete the task associated to this TODO comment.(­¦¦¬8Æ¬—×§.
 l
-java:S44889"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(íŠ£öüÿÿÿÿ8Á¢™¢.
+java:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(íŠ£öüÿÿÿÿ8Æ¬—×§.
+k
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ8œ¢×§.

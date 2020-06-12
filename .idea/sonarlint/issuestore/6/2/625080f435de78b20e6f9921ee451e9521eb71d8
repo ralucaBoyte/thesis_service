@@ -1,5 +1,5 @@
 
-s
-java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8ƒİ±ú¡.
 v
 java:S3305"YInject this field value directly into "connectionProvider", the only method that uses it.(â–ŠĞ8×­±ú¡.
+s
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8ƒİ±ú¡.

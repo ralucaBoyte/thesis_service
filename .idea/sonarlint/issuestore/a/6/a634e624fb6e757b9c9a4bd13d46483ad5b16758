@@ -1,14 +1,45 @@
 
-E
-java:S1148&"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8®·‹î¡.
-X	java:S1252"<This block of commented-out lines of code should be removed.(¦Ÿö8ÖäÉî¡.
-g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(éÅ÷°ÿÿÿÿÿ8®·‹î¡.
-E
-java:S1148@"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8®·‹î¡.
-G
-java:S2116#"%Use "Arrays.toString(array)" instead.(«Î»Èúÿÿÿÿ8Û€Æî¡.
-b	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(‰‚æ›8Å¹Ðî¡.
+p
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(â„± 8ûÉ©.
+A
+java:S5542²"#Use secure mode and padding scheme.(« æä8ûÉ©.
+D
+java:S1168¢"&Return an empty array instead of null.(¥¹ï8ûÉ©.
+z	java:S127ú"XRefactor the code in order to not assign to this loop counter from within the loop body.(øâÔÞúÿÿÿÿ8ûÉ©.
+@
+java:S1128"Remove this duplicated import.(ç‡‡³øÿÿÿÿ8ûÉ©.
+;
+java:S1128"Remove this duplicated import.(­“§8ûÉ©.
+A
+java:S5542Û"#Use secure mode and padding scheme.(ðëÑï8ûÉ©.
+
+java:S1149z"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«Œ­úÿÿÿÿ8ûÉ©.
+D
+java:S1168Ñ"&Return an empty array instead of null.(¥¹ï8ûÉ©.
+D
+java:S1168×"&Return an empty array instead of null.(¥¹ï8ûÉ©.
+D
+java:S1168¼"&Return an empty array instead of null.(¥¹ï8ûÉ©.
+A
+java:S5542¹"#Use secure mode and padding scheme.(¨†íê8ûÉ©.
+D
+java:S1168ë"&Return an empty array instead of null.(¥¹ï8ûÉ©.
+A
+java:S5542á"#Use secure mode and padding scheme.(« æä8ûÉ©.
+t	java:S127ù"XRefactor the code in order to not assign to this loop counter from within the loop body.(“§©G8ûÉ©.
+@
+java:S1128"Remove this duplicated import.(¹«è•üÿÿÿÿ8ûÉ©.
+A
+java:S5542Ï"#Use secure mode and padding scheme.(¨†íê8ûÉ©.
+‚
+java:S1149â"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8ûÉ©.
+D
+java:S1168Á"&Return an empty array instead of null.(¥¹ï8ûÉ©.
+D
+java:S1168"&Return an empty array instead of null.(¥¹ï8ûÉ©.
 \
-java:S1118	":Add a private constructor to hide the implicit public one.(¤–Éôýÿÿÿÿ8Ãéë¡.
-n
-java:S1192"QDefine a constant instead of duplicating this literal "1234567812345678" 4 times.(õáÃÁ8®·‹î¡.
+java:S1118&":Add a private constructor to hide the implicit public one.(ÍöÑ÷ûÿÿÿÿ8ûÉ©.
+D
+java:S1168Ì"&Return an empty array instead of null.(¥¹ï8ûÉ©.
+A
+java:S5542¬"#Use secure mode and padding scheme.(ðëÑï8ûÉ©.

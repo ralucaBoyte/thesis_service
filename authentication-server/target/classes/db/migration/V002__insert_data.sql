@@ -28,6 +28,7 @@ insert into  oauth_user (id, username,password, email, enabled, account_non_expi
 insert into  oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('8', 'profesor2', '$2a$04$wEbbhPoOyOorKGzY5G0XQexh.SXPh105E8YvohkVwkCCrzvDttFbi','profesor2@yahoo.com',  '1', '1', '1', '1');
 insert into  oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('9', 'profesor3', '$2a$04$ZlG.sAkHZN9yBX8UwSXdA.HF44CpYgLe7dmyQMfowS.ga8hZ7llRm','profesor3@yahoo.com',  '1', '1', '1', '1');
 insert into  oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('10', 'profesor4', '$2a$04$ajF0YXyPDx880qbYY5g1u.YxcfufK1tTGZhl5lbMn7sJEz2pLAd/m','profesor4@yahoo.com',  '1', '1', '1', '1');
+insert into  oauth_user (id, username,password, email, enabled, account_non_expired, credentials_non_expired, account_non_locked) VALUES ('11', 'student', '$2a$10$Qgfm6e874KVYrVbb/RGe9ezRUZDAQYWAzsl24Pe8YWuB5bfIrgoWS','student@yahoo.com',  '1', '1', '1', '1');
 
 INSERT INTO ROLE_USER (ROLE_ID, USER_ID)
     VALUES
@@ -40,7 +41,8 @@ INSERT INTO ROLE_USER (ROLE_ID, USER_ID)
     (1, 7),
     (1, 8),
     (1, 9),
-    (1, 10);
+    (1, 10),
+    (2, 11);
 
 insert into reviews (professor, student, feedback, review_grade) VALUES
 ('dana', 'student1', 'o profesoara exceptionala!', 9.3),

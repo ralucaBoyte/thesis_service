@@ -141,6 +141,25 @@ public class AttendanceController {
 
     }
 
+    @ApiOperation(value = "Get all attendances for student")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = AttendanceExceptionType.class),
+            @ApiResponse(code = 400, message = "ERROR", response = AttendanceExceptionType.class),
+    })
+    @RequestMapping(value = "/student-attendances", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<List<AttendanceResponseForStudent>> getAllAttendancesForStudent(Principal principal) {
+
+        logger.info("+++++++++ LOGGING getAllAttendances for student+++++++++");
+
+        logger.info(principal.getName());
+        List<AttendanceResponseForStudent> attendanceResponses = service.getAllAttendancesForStudent(principal.getName());
+        logger.info("+++++++++SUCCESSFUL LOGGING getAllAttendances for student+++++++++");
+
+        return new ResponseEntity<>(attendanceResponses, HttpStatus.OK);
+
+
+    }
+
 
     @ExceptionHandler({AttendanceServiceException.class})
     @ResponseBody

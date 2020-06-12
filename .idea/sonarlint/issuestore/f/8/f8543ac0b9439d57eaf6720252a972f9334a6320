@@ -1,8 +1,8 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î½»„ÿÿÿÿÿ8äœö¨ .
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôø˜8Ã÷‰Ù¤.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôø˜8¦£İ¤.
+}
+java:S1128"[Remove this unused import 'ro.ubbcluj.cs.ams.attendance.model.tables.pojos.AttendanceInfo'.(üíÎÄúÿÿÿÿ8À¬îÎ .
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôø˜8Ã÷‰Ù¤.
 H
 java:S1128",Remove this unused import 'org.jooq.Record'.(ï¤‰y8ĞÚÇÁ¤.
-}
-java:S1128"[Remove this unused import 'ro.ubbcluj.cs.ams.attendance.model.tables.pojos.AttendanceInfo'.(üíÎÄúÿÿÿÿ8À¬îÎ .
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôø˜8¦£İ¤.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î½»„ÿÿÿÿÿ8äœö¨ .

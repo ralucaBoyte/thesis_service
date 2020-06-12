@@ -32,6 +32,11 @@ public class UserDetailsServiceImpl implements UserDetailsService {
 
     private Logger logger = LoggerFactory.getLogger(UserDetailsServiceImpl.class);
 
+    public String findRoleByUsername(UserDetails userDetails){
+
+        return userDetails.getAuthorities().toArray()[0].toString();
+    }
+
     @Override
     public UserDetails loadUserByUsername(String name) throws UsernameNotFoundException {
 

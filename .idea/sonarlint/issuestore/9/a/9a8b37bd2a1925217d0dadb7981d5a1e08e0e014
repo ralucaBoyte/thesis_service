@@ -1,7 +1,7 @@
 
-H
-java:S1874"2Remove this use of "TokenStore"; it is deprecated.(Ú¹£Ê
-R
-java:S1874"<Remove this use of "EnableResourceServer"; it is deprecated.(¦‰ÆÈ
 b
 java:S1874"GRemove this use of "ResourceServerConfigurerAdapter"; it is deprecated.(ÌúÌ£øÿÿÿÿ
+R
+java:S1874"<Remove this use of "EnableResourceServer"; it is deprecated.(¦‰ÆÈ
+H
+java:S1874"2Remove this use of "TokenStore"; it is deprecated.(Ú¹£Ê

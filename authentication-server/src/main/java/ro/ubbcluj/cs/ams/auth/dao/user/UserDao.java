@@ -14,4 +14,5 @@ public interface UserDao {
     Integer saveUserKeyphrase(UserDto userDto);
     UserKeyphraseRecord getUserKeyphraseForUser(String username);
     List<OauthUserRecord> getAllProfessors();
+    Integer checkIfKeyphraseExists(String keyphrase);
 }

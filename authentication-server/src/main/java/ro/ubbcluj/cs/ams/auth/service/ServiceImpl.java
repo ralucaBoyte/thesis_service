@@ -27,13 +27,13 @@ public class ServiceImpl implements Service {
     @Autowired
     private UserDao userDao;
 
+    static int i = 0;
 
     private Logger logger = LogManager.getLogger(ServiceImpl.class);
 
     @Override
     public List<ReviewResponse> findAllReviewsForProfessor(String professor) {
         logger.info("+++++++++ find all subjects in service +++++++");
-
 
         List<ReviewsRecord> reviewsRecords = reviewDao.getAllReviewsForProfessor(professor);
 
@@ -76,6 +76,12 @@ public class ServiceImpl implements Service {
         logger.info("+++++++++ GET USER KEYPHRASE +++++++");
         UserKeyphraseRecord userKeyphraseRecord = userDao.getUserKeyphraseForUser(username);
         return userMapper.mapToUserKeyphrase(userKeyphraseRecord);
+    }
+
+    @Override
+    public Integer checkIfKeyphraseIsAlreadyUsed(String keyphrase) {
+        logger.info("+++++++++ CHECK IF KEYPHRASE IS ALREADY USED +++++++");
+        return userDao.checkIfKeyphraseExists(keyphrase);
     }
 
 

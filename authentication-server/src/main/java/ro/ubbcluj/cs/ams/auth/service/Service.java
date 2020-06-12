@@ -13,4 +13,5 @@ public interface Service {
     Integer saveUserKeyphrase(UserDto userDto);
     Integer existsUserKeyphraseForGivenUser(String username);
     UserKeyphraseResponse getUserKeyphrase(String username);
+    Integer checkIfKeyphraseIsAlreadyUsed(String keyphrase);
 }
