@@ -84,5 +84,10 @@ public class ServiceImpl implements Service {
         return userDao.checkIfKeyphraseExists(keyphrase);
     }
 
+    @Override
+    public Integer existsUser(String username) {
+        logger.info("+++++++++ CHECK IF USER EXISTS +++++++");
+        return userDao.existsUser(username);
+    }
 
 }

@@ -8,6 +8,7 @@ import org.cryptonode.jncryptor.AES256JNCryptor;
 import org.cryptonode.jncryptor.CryptorException;
 import org.cryptonode.jncryptor.JNCryptor;
 import org.jooq.Record;
+import org.jooq.tools.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -237,6 +238,23 @@ public class AuthController {
         //logger.info(principal.getName());
         List<ProfessorResponse> professors = service.getAllProfessor();
         return new ResponseEntity<>(professors, HttpStatus.OK);
+
+    }
+
+    @ApiOperation(value = "Exists user")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = ReviewExceptionType.class),
+            @ApiResponse(code = 400, message = "ERROR", response = ReviewExceptionType.class),
+    })
+    @RequestMapping(value = "/exists-user", method = RequestMethod.POST, consumes = MediaType.APPLICATION_FORM_URLENCODED_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<JSONObject> existsUser(Principal principal, @Valid UserRequest userRequest) {
+
+        logger.info("+++++++++ LOGGING exists user+++++++++");
+        Integer existsUsername = service.existsUser(userRequest.getUsername());
+        JSONObject exists = new JSONObject();
+        exists.put("exists", existsUsername);
+
+        return new ResponseEntity<>(exists, HttpStatus.OK);
 
     }
 

@@ -2,10 +2,7 @@ package ro.ubbcluj.cs.ams.chat.dao;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.jooq.DSLContext;
-import org.jooq.Record;
-import org.jooq.Result;
-import org.jooq.Table;
+import org.jooq.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import ro.ubbcluj.cs.ams.chat.dto.ChatMessageDTO;
@@ -73,5 +70,17 @@ public class ChatMessageDaoImpl implements ChatMessageDao {
                 .values(chatMessageDTO.getSender(), chatMessageDTO.getReceiver(), chatMessageDTO.getContent(), chatMessageDTO.getConversationId())
                 .execute();
         return messageAdded;
+    }
+
+    @Override
+    public Record1<Integer> addConversation(String sender, String receiver) {
+        Record1<Integer> exists = dsl
+                .insertInto(Tables.CONVERSATION, Tables.CONVERSATION.USERNAME1, Tables.CONVERSATION.USERNAME2)
+                .values(sender, receiver)
+                .returningResult(Tables.CONVERSATION.ID)
+                .fetchOne();
+
+
+        return exists;
     }
 }

@@ -6,17 +6,16 @@ import io.swagger.annotations.ApiResponses;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.jooq.Record;
+import org.jooq.Record1;
 import org.jooq.Result;
+import org.jooq.tools.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.web.bind.annotation.*;
-import ro.ubbcluj.cs.ams.chat.dto.ChatMessageDTO;
-import ro.ubbcluj.cs.ams.chat.dto.ChatUserDTO;
-import ro.ubbcluj.cs.ams.chat.dto.CustomChatMessagesDTO;
-import ro.ubbcluj.cs.ams.chat.dto.ProfessorResponse;
+import ro.ubbcluj.cs.ams.chat.dto.*;
 import ro.ubbcluj.cs.ams.chat.model.User;
 import ro.ubbcluj.cs.ams.chat.service.Service;
 import ro.ubbcluj.cs.ams.subject.chat.tables.records.ChatMessageRecord;
@@ -67,6 +66,37 @@ public class RestChatController {
         //logger.info(professors);
         //List<ChatUserDTO> messages = service.findAllUsers();
         return new ResponseEntity<>(professors, HttpStatus.OK);
+    }
+
+    @ApiOperation(value = "Exists user")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = JSONObject.class),
+    })
+    @RequestMapping(value = "exists", method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<JSONObject> existsUser(@RequestBody UserRequest userRequest) {
+
+        logger.info("+++++++++LOGGING EXISTS USER+++++++++");
+        JSONObject exists = microserviceCall.existsUser(userRequest);
+        logger.info("MICROSERVICE CALL AUTHENTICATION-SERVER");
+
+
+        return new ResponseEntity<>(exists, HttpStatus.OK);
+    }
+
+    @ApiOperation(value = "Exists conversation")
+    @ApiResponses(value = {
+            @ApiResponse(code = 200, message = "SUCCESS", response = JSONObject.class),
+    })
+    @RequestMapping(value = "exists-chat", method = RequestMethod.POST, produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<JSONObject> addConversation(@RequestBody ConversationDTO conversationDTO) {
+
+        logger.info("+++++++++LOGGING ADD CONVERSATION+++++++++");
+        Record1<Integer> exists = service.addConversation(conversationDTO.getSender(), conversationDTO.getReceiver());
+        JSONObject existsConversation = new JSONObject();
+        existsConversation.put("exists", exists.value1());
+
+
+        return new ResponseEntity<>(existsConversation, HttpStatus.OK);
     }
 
 

@@ -1,7 +1,7 @@
 
+g
+java:S3305"QInject this field value directly into "tokenStore", the only method that uses it.(‚ñä–
 O
 java:S1874$"2Remove this use of "TokenStore"; it is deprecated.(ä∆Ïû8Üç∑‡°.
 S
 java:S1874&"6Remove this use of "JdbcTokenStore"; it is deprecated.(Ê§ó«8Üç∑‡°.
-g
-java:S3305"QInject this field value directly into "tokenStore", the only method that uses it.(‚ñä–

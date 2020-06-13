@@ -9,6 +9,7 @@ import java.util.List;
 
 
 public interface UserDao {
+    Integer existsUser(String username);
     OauthUserRecord getUser(String username);
     Integer getUserKeyphraseForUsername(String username);
     Integer saveUserKeyphrase(UserDto userDto);

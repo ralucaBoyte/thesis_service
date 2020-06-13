@@ -143,8 +143,8 @@
       <ObjectId>2200</ObjectId>
       <Comment>standard public schema</Comment>
       <Owner>postgres</Owner>
-      <IntrospectionTimestamp>2020-05-21.14:00:30.065</IntrospectionTimestamp>
-      <IntrospectionStateNumber>5245</IntrospectionStateNumber>
+      <IntrospectionTimestamp>2020-06-13.18:37:33.829</IntrospectionTimestamp>
+      <IntrospectionStateNumber>6152</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
@@ -191,52 +191,52 @@
       <Type>index</Type>
     </access-method>
     <sequence id="37" parent="30" name="chat_message_conversation_id_seq">
-      <ObjectId>109966</ObjectId>
+      <ObjectId>141871</ObjectId>
       <Owner>ams</Owner>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <SequenceIdentity>1..2147483647</SequenceIdentity>
       <BelongsToColumn>1</BelongsToColumn>
       <CacheSize>1</CacheSize>
       <DataType>integer</DataType>
     </sequence>
     <sequence id="38" parent="30" name="chat_message_id_seq">
-      <ObjectId>109964</ObjectId>
+      <ObjectId>141869</ObjectId>
       <Owner>ams</Owner>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <SequenceIdentity>1..2147483647</SequenceIdentity>
       <BelongsToColumn>1</BelongsToColumn>
       <CacheSize>1</CacheSize>
       <DataType>integer</DataType>
     </sequence>
     <sequence id="39" parent="30" name="conversation_id_seq">
-      <ObjectId>109956</ObjectId>
+      <ObjectId>141861</ObjectId>
       <Owner>ams</Owner>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <SequenceIdentity>1..2147483647</SequenceIdentity>
       <BelongsToColumn>1</BelongsToColumn>
       <CacheSize>1</CacheSize>
       <DataType>integer</DataType>
     </sequence>
     <table id="40" parent="30" name="chat_message">
-      <ObjectId>109968</ObjectId>
+      <ObjectId>141873</ObjectId>
       <Owner>ams</Owner>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
     </table>
     <table id="41" parent="30" name="conversation">
-      <ObjectId>109958</ObjectId>
+      <ObjectId>141863</ObjectId>
       <Owner>ams</Owner>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
     </table>
     <table id="42" parent="30" name="flyway_schema_history">
-      <ObjectId>109946</ObjectId>
+      <ObjectId>141851</ObjectId>
       <Owner>ams</Owner>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
     </table>
     <column id="43" parent="40" name="id">
       <Position>1</Position>
       <DataType>integer|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <DefaultExpression>nextval(&apos;chat_message_id_seq&apos;::regclass)</DefaultExpression>
       <TypeId>23</TypeId>
       <SequenceName>chat_message_id_seq</SequenceName>
@@ -244,45 +244,45 @@
     <column id="44" parent="40" name="sender">
       <Position>2</Position>
       <DataType>varchar(100)|0s</DataType>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="45" parent="40" name="receiver">
       <Position>3</Position>
       <DataType>varchar(100)|0s</DataType>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="46" parent="40" name="content">
       <Position>4</Position>
       <DataType>text|0s</DataType>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <TypeId>25</TypeId>
     </column>
     <column id="47" parent="40" name="conversation_id">
       <Position>5</Position>
       <DataType>integer|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <DefaultExpression>nextval(&apos;chat_message_conversation_id_seq&apos;::regclass)</DefaultExpression>
       <TypeId>23</TypeId>
       <SequenceName>chat_message_conversation_id_seq</SequenceName>
     </column>
     <index id="48" parent="40" name="pk_chat_message">
-      <ObjectId>109976</ObjectId>
+      <ObjectId>141881</ObjectId>
       <ColNames>id</ColNames>
       <Unique>1</Unique>
     </index>
     <key id="49" parent="40" name="pk_chat_message">
-      <ObjectId>109977</ObjectId>
+      <ObjectId>141882</ObjectId>
       <ColNames>id</ColNames>
       <UnderlyingIndexName>pk_chat_message</UnderlyingIndexName>
       <Primary>1</Primary>
     </key>
     <foreign-key id="50" parent="40" name="fk_chat_message_conversation">
-      <ObjectId>109978</ObjectId>
+      <ObjectId>141883</ObjectId>
       <ColNames>conversation_id</ColNames>
-      <RefTableId>109958</RefTableId>
+      <RefTableId>141863</RefTableId>
       <RefColPositions>1</RefColPositions>
       <RefTableName>conversation</RefTableName>
       <RefKeyName>pk_conversation</RefKeyName>
@@ -292,7 +292,7 @@
       <Position>1</Position>
       <DataType>integer|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <DefaultExpression>nextval(&apos;conversation_id_seq&apos;::regclass)</DefaultExpression>
       <TypeId>23</TypeId>
       <SequenceName>conversation_id_seq</SequenceName>
@@ -301,23 +301,23 @@
       <Position>2</Position>
       <DataType>varchar(100)|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="53" parent="41" name="username2">
       <Position>3</Position>
       <DataType>varchar(100)|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5245</StateNumber>
+      <StateNumber>6152</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <index id="54" parent="41" name="pk_conversation">
-      <ObjectId>109962</ObjectId>
+      <ObjectId>141867</ObjectId>
       <ColNames>id</ColNames>
       <Unique>1</Unique>
     </index>
     <key id="55" parent="41" name="pk_conversation">
-      <ObjectId>109963</ObjectId>
+      <ObjectId>141868</ObjectId>
       <ColNames>id</ColNames>
       <UnderlyingIndexName>pk_conversation</UnderlyingIndexName>
       <Primary>1</Primary>
@@ -326,54 +326,54 @@
       <Position>1</Position>
       <DataType>integer|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>23</TypeId>
     </column>
     <column id="57" parent="42" name="version">
       <Position>2</Position>
       <DataType>varchar(50)|0s</DataType>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="58" parent="42" name="description">
       <Position>3</Position>
       <DataType>varchar(200)|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="59" parent="42" name="type">
       <Position>4</Position>
       <DataType>varchar(20)|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="60" parent="42" name="script">
       <Position>5</Position>
       <DataType>varchar(1000)|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="61" parent="42" name="checksum">
       <Position>6</Position>
       <DataType>integer|0s</DataType>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>23</TypeId>
     </column>
     <column id="62" parent="42" name="installed_by">
       <Position>7</Position>
       <DataType>varchar(100)|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>1043</TypeId>
     </column>
     <column id="63" parent="42" name="installed_on">
       <Position>8</Position>
       <DataType>timestamp|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <DefaultExpression>now()</DefaultExpression>
       <TypeId>1114</TypeId>
     </column>
@@ -381,27 +381,27 @@
       <Position>9</Position>
       <DataType>integer|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>23</TypeId>
     </column>
     <column id="65" parent="42" name="success">
       <Position>10</Position>
       <DataType>boolean|0s</DataType>
       <NotNull>1</NotNull>
-      <StateNumber>5244</StateNumber>
+      <StateNumber>6151</StateNumber>
       <TypeId>16</TypeId>
     </column>
     <index id="66" parent="42" name="flyway_schema_history_pk">
-      <ObjectId>109953</ObjectId>
+      <ObjectId>141858</ObjectId>
       <ColNames>installed_rank</ColNames>
       <Unique>1</Unique>
     </index>
     <index id="67" parent="42" name="flyway_schema_history_s_idx">
-      <ObjectId>109955</ObjectId>
+      <ObjectId>141860</ObjectId>
       <ColNames>success</ColNames>
     </index>
     <key id="68" parent="42" name="flyway_schema_history_pk">
-      <ObjectId>109954</ObjectId>
+      <ObjectId>141859</ObjectId>
       <ColNames>installed_rank</ColNames>
       <UnderlyingIndexName>flyway_schema_history_pk</UnderlyingIndexName>
       <Primary>1</Primary>

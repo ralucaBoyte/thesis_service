@@ -26,6 +26,17 @@ public class UserDaoImpl implements UserDao {
 
 
     @Override
+    public Integer existsUser(String username) {
+        logger.info("++++++++++++CHECK IF USER EXISTS+++++++");
+
+        Integer existsUser = dsl.selectFrom(Tables.OAUTH_USER)
+                .where(Tables.OAUTH_USER.USERNAME.eq(username))
+                .fetch().size();
+
+        return existsUser;
+    }
+
+    @Override
     public OauthUserRecord getUser(String username) {
         logger.info("++++++++++++GET USER +++++++");
 

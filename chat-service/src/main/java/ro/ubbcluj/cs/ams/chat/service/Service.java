@@ -1,6 +1,7 @@
 package ro.ubbcluj.cs.ams.chat.service;
 
 import org.jooq.Record;
+import org.jooq.Record1;
 import org.jooq.Result;
 import ro.ubbcluj.cs.ams.chat.dto.ChatMessageDTO;
 import ro.ubbcluj.cs.ams.chat.dto.ChatUserDTO;
@@ -24,4 +25,5 @@ public interface Service {
 
     Integer addNewChatMessage(ChatMessageDTO chatMessageDTO);
 
+    Record1<Integer> addConversation(String sender, String receiver);
 }
